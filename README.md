@@ -13,7 +13,7 @@ Sitio web estático de alta ingeniería para [especialista-fugas.cl](https://esp
   - `deteccion-de-fugas-de-piscinas/` (Pruebas estancas en piscinas sin vaciar).
   - `certificacion-sec-sello-verde/` (Inspección, regularización y tramitación Sello Verde SEC).
   - `emergencias-24-7/` (Atención urgente por olor a gas y corte de medidor).
-- **Enrutamiento Directo a WhatsApp:** Todos los formularios de contacto capturan los datos (Nombre, Teléfono, Comuna, Servicio y Detalle) y abren automáticamente la app de WhatsApp con un mensaje pre-formateado al número oficial `+56 9 3223 7072`.
+- **Enrutamiento Directo a WhatsApp:** Todos los formularios de contacto capturan los datos (Nombre, Teléfono, Comuna, Servicio y Detalle) y abren automáticamente la app de WhatsApp con un mensaje pre-formateado al número oficial `+56 9 4987 7316`.
 - **Datos Estructurados Schema.org JSON-LD:**
   - `PlumbingService` con geolocalización, horarios 24/7 y catálogo de servicios.
   - `FAQPage` con 15 preguntas y respuestas en la Home y 10 a 12 en cada subpágina para Rich Snippets en Google.

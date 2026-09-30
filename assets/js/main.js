@@ -1,12 +1,12 @@
 /**
  * Especialista en Fugas - JavaScript Core
- * Alta Ingeniería • Enrutamiento directo de leads a WhatsApp Oficial (+56 9 3223 7072)
+ * Alta Ingeniería • Enrutamiento directo de leads a WhatsApp Oficial (+56 9 4987 7316 / 949 877 316)
  */
 
 (function () {
   'use strict';
 
-  const WHATSAPP_NUMBER = '56932237072';
+  const WHATSAPP_NUMBER = '56949877316';
 
   document.addEventListener('DOMContentLoaded', function () {
     initHeaderScroll();

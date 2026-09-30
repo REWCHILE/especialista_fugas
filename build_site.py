@@ -4,7 +4,7 @@ Generator Script: Especialista en Fugas
 High Engineering Static Site Generator
 Generates all 24 indexed + strategic competitor attack pages with:
 - Schema.org PlumbingService & FAQPage JSON-LD (10-15 FAQs each)
-- Direct WhatsApp lead routing (+56 9 3223 7072)
+- Direct WhatsApp lead routing (+56 9 4987 7316)
 - Sticky header, responsive drawer, mobile quick-action bar
 - 100% SEO optimized for Chile & Core Web Vitals
 """
@@ -17,7 +17,7 @@ PAGES_DATA = [
     {
         "slug": "sellado-de-fugas-de-gas-con-prodoral",
         "title": "▷ Sellar Fugas de Gas 【 Prodoral R6-1 Sin Romper • Especialistas SEC Chile 】✔️",
-        "meta_desc": "Sellado de fugas de gas con polímero alemán Prodoral R6-1 en Santiago. Sin demoler muros ni baldosas. Garantía por escrito y Sello Verde SEC. Tel/WA: +56 9 3223 7072.",
+        "meta_desc": "Sellado de fugas de gas con polímero alemán Prodoral R6-1 en Santiago. Sin demoler muros ni baldosas. Garantía por escrito y Sello Verde SEC. Tel/WA: +56 9 4987 7316.",
         "h1": "Sellado de Fugas de Gas con <span class='highlight-red'>Prodoral R6-1</span> Sin Romper Muros",
         "hero_badge": "🛡️ TECNOLOGÍA ALEMANA ORIGINAL • TÉCNICOS AUTORIZADOS SEC",
         "intro": "Recupere la hermeticidad de su red de gas de forma limpia, segura y definitiva. Prodoral R6-1 es el sellante polimérico líder en Europa y Chile que repara microfugas internas circulando por la cañería sin necesidad de picar muros, radieres ni romper cerámicas.",
@@ -60,7 +60,7 @@ PAGES_DATA = [
     {
         "slug": "deteccion-de-fugas-con-gas-trazador",
         "title": "▷ Detección de Fugas con Gas Trazador 【 Precisión Milimétrica Sin Romper 】✔️",
-        "meta_desc": "Localización exacta de fugas subterráneas de gas y agua con Gas Trazador (Hidrógeno/Nitrógeno) en Santiago y RM. Cero excavación destructiva. Tel: +56 9 3223 7072.",
+        "meta_desc": "Localización exacta de fugas subterráneas de gas y agua con Gas Trazador (Hidrógeno/Nitrógeno) en Santiago y RM. Cero excavación destructiva. Tel: +56 9 4987 7316.",
         "h1": "Detección de Fugas con <span class='highlight-red'>Gas Trazador</span> Precisión Milimétrica",
         "hero_badge": "🔬 MÉTODO FORMIGAS NO INVASIVO • GASES INERTES SEGUROS",
         "intro": "Localizamos el punto exacto de filtraciones indetectables en cañerías subterráneas, losas y muros sin realizar excavaciones destructivas. Empleamos mezcla de 95% Nitrógeno y 5% Hidrógeno de máxima sensibilidad.",
@@ -81,7 +81,7 @@ PAGES_DATA = [
           ("¿Qué tipo de informe entregan al finalizar?", "Entregamos un informe técnico detallado señalando la ubicación exacta en plano o sobre el terreno para proceder con la reparación puntual."),
           ("¿Se puede aplicar en departamentos y edificios?", "Sí, es especialmente útil en edificios para determinar en qué piso o shaft vertical se ubica la microfuga."),
           ("¿Qué certificaciones tienen los operadores del equipo?", "Nuestros técnicos cuentan con certificación oficial SEC y entrenamiento en detección acústica y gases trazadores."),
-          ("¿Cómo contacto para una prueba urgente?", "Puede llamarnos al +56 9 3223 7072 o presionar el botón de WhatsApp para coordinar el arribo del equipo técnico.")
+          ("¿Cómo contacto para una prueba urgente?", "Puede llamarnos al +56 9 4987 7316 o presionar el botón de WhatsApp para coordinar el arribo del equipo técnico.")
         ]
     },
 
@@ -89,7 +89,7 @@ PAGES_DATA = [
     {
         "slug": "deteccion-de-fugas-de-agua",
         "title": "▷ Detección de Fugas de Agua 【 Geófono & Ultrasonido Sin Romper • Chile 】✔️",
-        "meta_desc": "Detectamos filtraciones y fugas de agua ocultas bajo radier y jardines con geófono acústico y ultrasonido en Santiago. Ahorre en su cuenta. WhatsApp: +56 9 3223 7072.",
+        "meta_desc": "Detectamos filtraciones y fugas de agua ocultas bajo radier y jardines con geófono acústico y ultrasonido en Santiago. Ahorre en su cuenta. WhatsApp: +56 9 4987 7316.",
         "h1": "Detección de <span class='highlight-red'>Fugas de Agua</span> Ocultas con Geófono y Ultrasonido",
         "hero_badge": "💧 DIAGNÓSTICO ACÚSTICO DIGITAL • REDUZCA SU CUENTA DE AGUA",
         "intro": "¿Su cuenta de agua se disparó o el medidor sigue girando con todas las llaves cerradas? Ubicamos la fuga subterránea o bajo radier con geófonos digitales de alta ganancia y cámaras térmicas sin picar su casa.",
@@ -118,7 +118,7 @@ PAGES_DATA = [
     {
         "slug": "deteccion-de-fugas-de-piscinas",
         "title": "▷ Detección de Fugas en Piscinas 【 Pruebas Hidrostáticas Sin Vaciar • Chile 】✔️",
-        "meta_desc": "Especialistas en detección y reparación de fugas en piscinas de hormigón, fibra y liner. Skimmers, retornos y fondo. Atención RM y V Región. WhatsApp: +56 9 3223 7072.",
+        "meta_desc": "Especialistas en detección y reparación de fugas en piscinas de hormigón, fibra y liner. Skimmers, retornos y fondo. Atención RM y V Región. WhatsApp: +56 9 4987 7316.",
         "h1": "Detección de Fugas y <span class='highlight-red'>Filtraciones en Piscinas</span> Sin Vaciar el Agua",
         "hero_badge": "🏊 DIAGNÓSTICO INTEGRAL DE PISCINAS • HORMIGÓN, FIBRA Y LINER",
         "intro": "Si su piscina pierde más agua de lo habitual por evaporación, sufre una filtración en el vaso o en las cañerías subterráneas. Identificamos el origen del problema mediante presurización de circuitos y sensores hidrostáticos.",
@@ -139,7 +139,7 @@ PAGES_DATA = [
           ("¿Qué pasa si la fuga está en un foco subacuático?", "Revisamos pasamuros, nichos de focos y prensaestopas, sellando cualquier vía de escape de agua."),
           ("¿Tienen cobertura en Chicureo, Pirque, Paine y litoral central?", "Sí, cubrimos todas las comunas con piscinas de la Región Metropolitana y la V Región."),
           ("¿Cuánto tiempo toma la inspección completa?", "El diagnóstico completo suele tomar entre 3 y 5 horas."),
-          ("¿Cómo solicito una cotización?", "Escríbanos directamente a nuestro WhatsApp oficial (+56 9 3223 7072) indicando las medidas aproximadas de su piscina.")
+          ("¿Cómo solicito una cotización?", "Escríbanos directamente a nuestro WhatsApp oficial (+56 9 4987 7316) indicando las medidas aproximadas de su piscina.")
         ]
     },
 
@@ -147,7 +147,7 @@ PAGES_DATA = [
     {
         "slug": "certificacion-sec-sello-verde",
         "title": "▷ Certificación SEC Sello Verde 【 Inspección & Regularización de Gas Chile 】✔️",
-        "meta_desc": "Obtenga su Sello Verde SEC. Eliminamos Sellos Rojos y Amarillos en casas, departamentos y edificios. Gásfiter instaladores autorizados SEC. Tel: +56 9 3223 7072.",
+        "meta_desc": "Obtenga su Sello Verde SEC. Eliminamos Sellos Rojos y Amarillos en casas, departamentos y edificios. Gásfiter instaladores autorizados SEC. Tel: +56 9 4987 7316.",
         "h1": "Certificación <span class='highlight-red'>Sello Verde SEC</span> y Regularización de Gas",
         "hero_badge": "📜 GÁSFITER AUTORIZADOS SEC CLASE 1, 2 Y 3 • CHILE",
         "intro": "¿Recibió un Sello Rojo o Amarillo en la inspección periódica de gas? Normalizamos su instalación según la normativa del Decreto Supremo Nº 66 para obtener su Sello Verde SEC oficial y garantizar la continuidad del suministro.",
@@ -168,7 +168,7 @@ PAGES_DATA = [
           ("¿Qué artefactos revisan en la certificación?", "Calefones, calderas, cocinas, encimeras, estufas fijas y la red completa de cañerías."),
           ("¿Ustedes tramitan directamente con Metrogas o Lipigas?", "Sí, emitimos los documentos técnicos formales necesarios para solicitar el retiro de sellos y reposición del medidor."),
           ("¿Puedo verificar la licencia del técnico en la SEC?", "Sí, todos nuestros técnicos cuentan con credencial con código QR y registro público verificable en sec.cl."),
-          ("¿Cómo agendar una visita de inspección SEC?", "Contáctenos vía WhatsApp al +56 9 3223 7072 para coordinar la visita de un instalador acreditado.")
+          ("¿Cómo agendar una visita de inspección SEC?", "Contáctenos vía WhatsApp al +56 9 4987 7316 para coordinar la visita de un instalador acreditado.")
         ]
     },
 
@@ -176,7 +176,7 @@ PAGES_DATA = [
     {
         "slug": "emergencias-24-7",
         "title": "🚨 Emergencias Fugas de Gas 24/7 【 Gásfiter SEC Atención Inmediata Chile 】✔️",
-        "meta_desc": "Atención de urgencia 24 horas por fuga de gas, olor a gas y corte de medidor en Santiago y comunas. Técnicos certificados SEC de turno inmediato. Llamar: +56 9 3223 7072.",
+        "meta_desc": "Atención de urgencia 24 horas por fuga de gas, olor a gas y corte de medidor en Santiago y comunas. Técnicos certificados SEC de turno inmediato. Llamar: +56 9 4987 7316.",
         "h1": "Atención de <span class='highlight-red'>Emergencias por Fugas de Gas</span> 24 Horas",
         "hero_badge": "🚨 CUADRILLAS TÉCNICAS DISPONIBLES AHORA • TURNO 24/7",
         "intro": "Respuesta inmediata ante olor a gas, medidores cortados por la compañía o alarmas activadas. Técnicos autorizados SEC listos para desplazarse a su hogar o empresa en cualquier momento del día o la noche.",
@@ -188,7 +188,7 @@ PAGES_DATA = [
         <p>Nuestras unidades móviles de emergencia cuentan con detectores de gas por ionización, manómetros digitales certificados y herramientas de sellado rápido para neutralizar el peligro en el menor tiempo posible.</p>
         """,
         "faqs": [
-          ("¿Qué debo hacer si siento fuerte olor a gas ahora mismo?", "1. Cierre la llave general de gas. 2. Ventile abriendo puertas y ventanas. 3. No encienda luces ni fósforos. 4. Evacúe y llámenos al +56 9 3223 7072."),
+          ("¿Qué debo hacer si siento fuerte olor a gas ahora mismo?", "1. Cierre la llave general de gas. 2. Ventile abriendo puertas y ventanas. 3. No encienda luces ni fósforos. 4. Evacúe y llámenos al +56 9 4987 7316."),
           ("¿Cuánto tardan en llegar ante una emergencia en Santiago?", "Dependiendo de la comuna y el tráfico, nuestras cuadrillas móviles llegan habitualmente en un plazo de 30 a 60 minutos."),
           ("¿Atienden de noche y en días festivos?", "Sí, mantenemos personal técnico de guardia las 24 horas del día, los 365 días del año sin interrupciones."),
           ("¿Qué costo tiene la visita de emergencia?", "El técnico le informará el costo de la visita diagnóstica antes de concurrir y cotizará la solución inmediata en el lugar."),
@@ -197,7 +197,7 @@ PAGES_DATA = [
           ("¿Trabajan con gas licuado en cilindro o tanque a granel?", "Sí, atendemos instalaciones con cilindros de 45 kg, estanques a granel de Lipigas/Abastible y redes urbanas de gas natural."),
           ("¿Cómo se paga el servicio de emergencia?", "Aceptamos transferencias electrónicas bancarias, tarjetas de débito/crédito y efectivo."),
           ("¿Emiten boleta o factura de la empresa?", "Sí, emitimos boletas y facturas electrónicas válidas con todos los datos legales."),
-          ("¿Cuál es el teléfono directo de emergencias?", "Llámenos de inmediato al +56 9 3223 7072 o abra nuestro chat directo de WhatsApp.")
+          ("¿Cuál es el teléfono directo de emergencias?", "Llámenos de inmediato al +56 9 4987 7316 o abra nuestro chat directo de WhatsApp.")
         ]
     },
 
@@ -205,7 +205,7 @@ PAGES_DATA = [
     {
         "slug": "fuga-de-gas",
         "title": "▷ Fuga de Gas 【 Detección & Sellado No Invasivo • Gasfiter SEC Chile 】✔️",
-        "meta_desc": "Solución técnica integral a fugas de gas licuado y natural. Detección electrónica y sellado con Prodoral R6-1 en Santiago y RM. Atención 24/7 al WhatsApp: +56 9 3223 7072.",
+        "meta_desc": "Solución técnica integral a fugas de gas licuado y natural. Detección electrónica y sellado con Prodoral R6-1 en Santiago y RM. Atención 24/7 al WhatsApp: +56 9 4987 7316.",
         "h1": "Solución Definitiva a <span class='highlight-red'>Fugas de Gas</span> en Santiago y Regiones",
         "hero_badge": "🔥 ESPECIALISTAS CERTIFICADOS EN REDES DE GAS CHILE",
         "intro": "Detección milimétrica y reparación no invasiva de fugas de gas en cañerías empotradas y subterráneas. Cumplimiento estricto del Decreto Supremo Nº 66 con instaladores acreditados SEC.",
@@ -225,7 +225,7 @@ PAGES_DATA = [
     {
         "slug": "fuga-de-gas-deteccion",
         "title": "▷ Detección de Fugas de Gas 【 Diagnóstico Electrónico de Hermeticidad SEC 】✔️",
-        "meta_desc": "Diagnóstico y detección electrónica de fugas de gas en cañerías empotradas y subterráneas. Equipos manométricos de alta precisión en RM. Tel: +56 9 3223 7072.",
+        "meta_desc": "Diagnóstico y detección electrónica de fugas de gas en cañerías empotradas y subterráneas. Equipos manométricos de alta precisión en RM. Tel: +56 9 4987 7316.",
         "h1": "Detección de <span class='highlight-red'>Fugas de Gas</span> con Diagnóstico Electrónico",
         "hero_badge": "🔍 DIAGNÓSTICO MANOMÉTRICO DIGITAL CERTIFICADO",
         "intro": "Inspeccionamos su red de gas con manómetros digitales de alta sensibilidad y detectores olfativos electrónicos capaces de registrar concentraciones mínimas de gas antes de que representen un peligro.",
@@ -244,7 +244,7 @@ PAGES_DATA = [
     {
         "slug": "aplicacion-de-prodoral-para-fuga-de-gas",
         "title": "▷ Aplicación de Prodoral para Fuga de Gas 【 Servicio Técnico Certificado 】✔️",
-        "meta_desc": "Procedimiento profesional de inyección y aplicación de sellante alemán Prodoral R6-1 para redes de gas en Chile. 100% garantizado. WhatsApp: +56 9 3223 7072.",
+        "meta_desc": "Procedimiento profesional de inyección y aplicación de sellante alemán Prodoral R6-1 para redes de gas en Chile. 100% garantizado. WhatsApp: +56 9 4987 7316.",
         "h1": "Aplicación Profesional de <span class='highlight-red'>Prodoral R6-1</span> para Fugas de Gas",
         "hero_badge": "🇩🇪 PROTOCOLO TÉCNICO OFICIAL DE APLICACIÓN",
         "intro": "La correcta aplicación de Prodoral R6-1 exige un protocolo técnico riguroso de limpieza previa, bombeo presurizado y secado por aire filtrado. Confíe en técnicos capacitados con amplia experiencia en Chile.",
@@ -262,7 +262,7 @@ PAGES_DATA = [
     {
         "slug": "gasfiter-sec-especialista-en-fuga-de-gas",
         "title": "▷ Gásfiter SEC Especialista en Fugas de Gas 【 Instalador Certificado Chile 】✔️",
-        "meta_desc": "Contrate un gásfiter certificado por la SEC para reparar su fuga de gas con total seguridad y respaldo legal. Atención 24 horas en Santiago. Tel: +56 9 3223 7072.",
+        "meta_desc": "Contrate un gásfiter certificado por la SEC para reparar su fuga de gas con total seguridad y respaldo legal. Atención 24 horas en Santiago. Tel: +56 9 4987 7316.",
         "h1": "Gásfiter SEC <span class='highlight-red'>Especialista en Fugas de Gas</span> Autorizado",
         "hero_badge": "👨‍🔧 INSTALADORES AUTORIZADOS POR LA SUPERINTENDENCIA SEC",
         "intro": "Un problema de gas en su hogar solo debe ser intervenido por profesionales con licencia vigente de la SEC. Evite riesgos graves y asegure la aprobación de su Sello Verde.",
@@ -279,7 +279,7 @@ PAGES_DATA = [
     {
         "slug": "fuga-de-gas-gasfiter-certificado-en-fugas-de-gas",
         "title": "▷ Gásfiter Certificado en Fugas de Gas 【 Atención Rápida a Domicilio 】✔️",
-        "meta_desc": "Técnicos certificados en cañerías de cobre, PEX, acero y HDPE. Detección y sellado de fugas en toda la Región Metropolitana. WhatsApp: +56 9 3223 7072.",
+        "meta_desc": "Técnicos certificados en cañerías de cobre, PEX, acero y HDPE. Detección y sellado de fugas en toda la Región Metropolitana. WhatsApp: +56 9 4987 7316.",
         "h1": "Gásfiter Certificado en <span class='highlight-red'>Reparación de Fugas de Gas</span>",
         "hero_badge": "🛡️ VISITAS A DOMICILIO EN TODA LA REGIÓN METROPOLITANA",
         "intro": "Asistencia técnica inmediata para residencias particulares, comunidades de departamentos y empresas. Reparamos cañerías, llaves de paso y conexiones de gas con certificación oficial.",
@@ -296,7 +296,7 @@ PAGES_DATA = [
     {
         "slug": "fuga-de-gas-reparamos-fugas-de-gas-sin-romper",
         "title": "▷ Reparamos Fugas de Gas Sin Romper 【 Tecnología Prodoral R6-1 】✔️",
-        "meta_desc": "Olvídese de picar paredes y pisos. Reparamos microfugas internas de gas en 1 solo día con tecnología alemana de polímero líquido. Tel: +56 9 3223 7072.",
+        "meta_desc": "Olvídese de picar paredes y pisos. Reparamos microfugas internas de gas en 1 solo día con tecnología alemana de polímero líquido. Tel: +56 9 4987 7316.",
         "h1": "Reparamos Fugas de Gas <span class='highlight-red'>Sin Romper Pisos ni Muros</span>",
         "hero_badge": "🔨 CERO DEMOLICIÓN • CERO ESCOMBROS • CERO POLVO",
         "intro": "No destruya sus cerámicas, parquets ni paredes recién pintadas. Nuestra tecnología de sellado polimérico resuelve la fuga desde el interior de la cañería en pocas horas.",
@@ -313,7 +313,7 @@ PAGES_DATA = [
     {
         "slug": "fuga-de-gas-servicio-de-experto-en-fugas-de-gas",
         "title": "▷ Servicio de Experto en Fugas de Gas 【 Asistencia Profesional 24/7 】✔️",
-        "meta_desc": "Ingeniería y gasfitería especializada en redes de gas natural y gas licuado para casas, edificios y empresas en Chile. WhatsApp directo: +56 9 3223 7072.",
+        "meta_desc": "Ingeniería y gasfitería especializada en redes de gas natural y gas licuado para casas, edificios y empresas en Chile. WhatsApp directo: +56 9 4987 7316.",
         "h1": "Servicio de <span class='highlight-red'>Experto en Fugas de Gas</span> y Redes Térmicas",
         "hero_badge": "⚙️ ALTA INGENIERÍA EN GASFITERÍA Y SEGURIDAD",
         "intro": "Brindamos consultoría técnica, diagnóstico de hermeticidad y ejecución de obras de reparación de gas para administradores de edificios, industrias y propietarios exigentes.",
@@ -330,7 +330,7 @@ PAGES_DATA = [
     {
         "slug": "fuga-de-gas-penalolen",
         "title": "▷ Fuga de Gas en Peñalolén 【 Gásfiter SEC Sellado Prodoral 】✔️",
-        "meta_desc": "Atención urgente de fugas de gas en Peñalolén (Las Pircas, Consistorial, Tobalaba, Quilín). Gásfiter certificado SEC. Sellado sin romper. Tel: +56 9 3223 7072.",
+        "meta_desc": "Atención urgente de fugas de gas en Peñalolén (Las Pircas, Consistorial, Tobalaba, Quilín). Gásfiter certificado SEC. Sellado sin romper. Tel: +56 9 4987 7316.",
         "h1": "Detección y Reparación de <span class='highlight-red'>Fugas de Gas en Peñalolén</span>",
         "hero_badge": "📍 COBERTURA RÁPIDA EN PEÑALOLÉN Y COMUNAS DEL ORIENTE",
         "intro": "Cuadrilla móvil permanente en la comuna de Peñalolén para atender emergencias por olor a gas, cortes de suministro y sellado de microfugas sin romper con Prodoral R6-1.",
@@ -347,7 +347,7 @@ PAGES_DATA = [
     {
         "slug": "fuga-de-gas-pirque",
         "title": "▷ Fuga de Gas en Pirque 【 Gásfiter Certificado SEC a Domicilio 】✔️",
-        "meta_desc": "Detección y sellado de fugas de gas en Pirque (El Principal, Casas Viejas, Santa Rita). Especialistas SEC en gas licuado y estanques. WhatsApp: +56 9 3223 7072.",
+        "meta_desc": "Detección y sellado de fugas de gas en Pirque (El Principal, Casas Viejas, Santa Rita). Especialistas SEC en gas licuado y estanques. WhatsApp: +56 9 4987 7316.",
         "h1": "Reparación de <span class='highlight-red'>Fugas de Gas en Pirque</span> y Alrededores",
         "hero_badge": "📍 ATENCIÓN ESPECIALIZADA EN PARCELAS Y VIVIENDAS DE PIRQUE",
         "intro": "Expertos en redes de gas licuado a granel (estanques de gas) y cañerías subterráneas en parcelas y condominios de Pirque. Detección con gas trazador y sellado sin romper.",
@@ -364,7 +364,7 @@ PAGES_DATA = [
     {
         "slug": "fuga-de-gas-papudo",
         "title": "▷ Fuga de Gas en Papudo 【 Gásfiter SEC Litoral Norte V Región 】✔️",
-        "meta_desc": "Servicio técnico de fugas de gas y agua en Papudo, Punta Puyai y Zapallar. Gásfiter autorizado SEC. Sellado Prodoral sin romper. Llamar: +56 9 3223 7072.",
+        "meta_desc": "Servicio técnico de fugas de gas y agua en Papudo, Punta Puyai y Zapallar. Gásfiter autorizado SEC. Sellado Prodoral sin romper. Llamar: +56 9 4987 7316.",
         "h1": "Especialista en <span class='highlight-red'>Fugas de Gas en Papudo</span> y V Región",
         "hero_badge": "🌊 COBERTURA EN PAPUDO, PUNTA PUYAI Y ZAPALLAR",
         "intro": "Atendemos condominios costeros, casas de verano y departamentos en Papudo y Punta Puyai con servicio de detección y sellado no destructivo de fugas de gas y piscinas.",
@@ -381,7 +381,7 @@ PAGES_DATA = [
     {
         "slug": "fuga-de-gas-rancagua",
         "title": "▷ Fuga de Gas en Rancagua 【 Gásfiter SEC Machalí & VI Región 】✔️",
-        "meta_desc": "Detección y sellado de fugas de gas en Rancagua y Machalí. Técnicos acreditados SEC. Tecnología Prodoral R6-1 sin picar pisos. Tel: +56 9 3223 7072.",
+        "meta_desc": "Detección y sellado de fugas de gas en Rancagua y Machalí. Técnicos acreditados SEC. Tecnología Prodoral R6-1 sin picar pisos. Tel: +56 9 4987 7316.",
         "h1": "Detección y Reparación de <span class='highlight-red'>Fugas de Gas en Rancagua</span>",
         "hero_badge": "📍 COBERTURA EN RANCAGUA, MACHALÍ Y VI REGIÓN",
         "intro": "Instaladores autorizados SEC para la ciudad de Rancagua y Machalí. Solución limpia a filtraciones de gas en cañerías empotradas y redes de agua potable.",
@@ -398,7 +398,7 @@ PAGES_DATA = [
     {
         "slug": "fuga-de-gas-paine",
         "title": "▷ Fuga de Gas en Paine 【 Gásfiter SEC Buin & Parcelas 】✔️",
-        "meta_desc": "Detección y reparación de fugas de gas en Paine, Champa, Huelquén y Buin. Gásfiter autorizado SEC. Sellado sin romper muros. WhatsApp: +56 9 3223 7072.",
+        "meta_desc": "Detección y reparación de fugas de gas en Paine, Champa, Huelquén y Buin. Gásfiter autorizado SEC. Sellado sin romper muros. WhatsApp: +56 9 4987 7316.",
         "h1": "Reparación de <span class='highlight-red'>Fugas de Gas en Paine</span> y Buin",
         "hero_badge": "📍 COBERTURA EN PAINE, BUIN, CHAMPA Y HUELQUÉN",
         "intro": "Especialistas en redes de gas para parcelas, condominios y viviendas en Paine y Buin. Sellado con Prodoral R6-1 y detección subterránea con gas trazador.",
@@ -415,7 +415,7 @@ PAGES_DATA = [
     {
         "slug": "fuga-de-gas-la-chicureo",
         "title": "▷ Fuga de Gas en Chicureo 【 Gásfiter SEC Colina & Piedra Roja 】✔️",
-        "meta_desc": "Especialistas en fugas de gas en Chicureo (Piedra Roja, Chamisero, Las Brisas, Santa Elena). Sellado Prodoral R6-1 sin romper. WhatsApp: +56 9 3223 7072.",
+        "meta_desc": "Especialistas en fugas de gas en Chicureo (Piedra Roja, Chamisero, Las Brisas, Santa Elena). Sellado Prodoral R6-1 sin romper. WhatsApp: +56 9 4987 7316.",
         "h1": "Detección y Sellado de <span class='highlight-red'>Fugas de Gas en Chicureo</span>",
         "hero_badge": "📍 ATENCIÓN EXPRESS EN CHICUREO, CHAMISERO Y PIEDRA ROJA",
         "intro": "Atención prioritaria para condominios de Chicureo y Colina. Sellado de microfugas de gas sin romper baldosas ni muros finos con polímero alemán Prodoral R6-1.",
@@ -432,7 +432,7 @@ PAGES_DATA = [
     {
         "slug": "fuga-de-gas-quinta-normal",
         "title": "▷ Fuga de Gas en Quinta Normal 【 Gásfiter Certificado SEC 24/7 】✔️",
-        "meta_desc": "Reparación de fugas de gas en Quinta Normal (Carrascal, Matucana, Mapocho). Gásfiter autorizado SEC. Sello Verde y sellado sin romper. Tel: +56 9 3223 7072.",
+        "meta_desc": "Reparación de fugas de gas en Quinta Normal (Carrascal, Matucana, Mapocho). Gásfiter autorizado SEC. Sello Verde y sellado sin romper. Tel: +56 9 4987 7316.",
         "h1": "Reparación de <span class='highlight-red'>Fugas de Gas en Quinta Normal</span>",
         "hero_badge": "📍 COBERTURA INMEDIATA EN QUINTA NORMAL Y SANTIAGO PONIENTE",
         "intro": "Servicio de gasfitería certificada SEC en Quinta Normal para casas antiguas, edificios y locales comerciales. Solución limpia de fugas sin picar pisos.",
@@ -449,7 +449,7 @@ PAGES_DATA = [
     {
         "slug": "fuga-de-gas-puente-alto",
         "title": "▷ Fuga de Gas en Puente Alto 【 Gásfiter SEC Ciudad del Este & Las Vizcachas 】✔️",
-        "meta_desc": "Urgencias por fuga de gas en Puente Alto (Ciudad del Este, Las Vizcachas, Vicuña Mackenna). Instalador autorizado SEC. WhatsApp: +56 9 3223 7072.",
+        "meta_desc": "Urgencias por fuga de gas en Puente Alto (Ciudad del Este, Las Vizcachas, Vicuña Mackenna). Instalador autorizado SEC. WhatsApp: +56 9 4987 7316.",
         "h1": "Detección y Reparación de <span class='highlight-red'>Fugas de Gas en Puente Alto</span>",
         "hero_badge": "📍 ATENCIÓN RÁPIDA EN PUENTE ALTO Y CORDILLERA",
         "intro": "Cuadrillas técnicas para casas y condominios en Puente Alto. Sellado no invasivo con Prodoral R6-1, detección de gas trazador y certificación Sello Verde SEC.",
@@ -457,7 +457,7 @@ PAGES_DATA = [
         "service_focus": "Servicio de gasfitería autorizada SEC en la comuna de Puente Alto.",
         "specific_content": "<h2>Cobertura Total en Puente Alto</h2><p>Atendemos sectores como Ciudad del Este, Las Vizcachas, Los Toros, San Carlos, La Florida sur y todo el eje de Vicuña Mackenna con atención 24 horas.</p>",
         "faqs": [
-          ("¿Qué hago si Metrogas me cortó el gas en Puente Alto?", "Llámenos al +56 9 3223 7072. Realizamos la prueba, sellamos la red y entregamos el informe para la reconexión."),
+          ("¿Qué hago si Metrogas me cortó el gas en Puente Alto?", "Llámenos al +56 9 4987 7316. Realizamos la prueba, sellamos la red y entregamos el informe para la reconexión."),
           ("¿Tienen atención los fines de semana en Puente Alto?", "Sí, atendemos emergencias de lunes a domingo las 24 horas.")
         ]
     },
@@ -466,7 +466,7 @@ PAGES_DATA = [
     {
         "slug": "fuga-de-gas-maria-pinto",
         "title": "▷ Fuga de Gas en María Pinto 【 Gásfiter SEC Curacaví & Melipilla 】✔️",
-        "meta_desc": "Atención técnica de fugas de gas y agua en María Pinto, Curacaví y zona rural poniente. Gásfiter autorizado SEC. WhatsApp: +56 9 3223 7072.",
+        "meta_desc": "Atención técnica de fugas de gas y agua en María Pinto, Curacaví y zona rural poniente. Gásfiter autorizado SEC. WhatsApp: +56 9 4987 7316.",
         "h1": "Servicio de <span class='highlight-red'>Fugas de Gas en María Pinto</span>",
         "hero_badge": "📍 COBERTURA EN MARÍA PINTO, CURACAVÍ Y MELIPILLA",
         "intro": "Especialistas en redes de gas licuado en parcelas y sectores rurales de María Pinto. Diagnóstico de hermeticidad manométrica y sellado no destructivo.",
@@ -483,7 +483,7 @@ PAGES_DATA = [
     {
         "slug": "fuga-de-gas-san-bernardo",
         "title": "▷ Fuga de Gas en San Bernardo 【 Gásfiter SEC Nos & Calera de Tango 】✔️",
-        "meta_desc": "Detección y sellado de fugas de gas en San Bernardo (Nos, Lo Herrera, Portada Sur). Gásfiter certificado SEC. Atención 24/7. Tel: +56 9 3223 7072.",
+        "meta_desc": "Detección y sellado de fugas de gas en San Bernardo (Nos, Lo Herrera, Portada Sur). Gásfiter certificado SEC. Atención 24/7. Tel: +56 9 4987 7316.",
         "h1": "Reparación de <span class='highlight-red'>Fugas de Gas en San Bernardo</span>",
         "hero_badge": "📍 COBERTURA EN SAN BERNARDO, NOS Y CALERA DE TANGO",
         "intro": "Servicio de gasfitería certificada SEC en San Bernardo para casas particulares, condominios en Nos y empresas del sector sur de Santiago. Sellado sin romper.",
@@ -500,7 +500,7 @@ PAGES_DATA = [
     {
         "slug": "fuga-de-gas-san-joaquin",
         "title": "▷ Fuga de Gas en San Joaquín 【 Gásfiter Autorizado SEC 24 Horas 】✔️",
-        "meta_desc": "Solución a fugas de gas en San Joaquín (Carlos Valdovinos, Las Industrias, Santa Rosa). Gásfiter SEC. Sellado Prodoral sin romper. WhatsApp: +56 9 3223 7072.",
+        "meta_desc": "Solución a fugas de gas en San Joaquín (Carlos Valdovinos, Las Industrias, Santa Rosa). Gásfiter SEC. Sellado Prodoral sin romper. WhatsApp: +56 9 4987 7316.",
         "h1": "Detección y Reparación de <span class='highlight-red'>Fugas de Gas en San Joaquín</span>",
         "hero_badge": "📍 COBERTURA INMEDIATA EN SAN JOAQUÍN Y SANTIAGO SUR",
         "intro": "Técnicos autorizados SEC para viviendas, edificios residenciales e industrias en la comuna de San Joaquín. Detección electrónica y sellado no invasivo.",
@@ -522,7 +522,7 @@ BASE_TRUST_FAQS = [
     ("¿Qué garantía técnica ofrecen en sus reparaciones?", "Entregamos garantía técnica por escrito en todos nuestros servicios de sellado y reparación de fugas, respaldada por instaladores autorizados."),
     ("¿Atienden emergencias fines de semana, feriados y en horario nocturno?", "Sí, disponemos de servicio técnico de emergencia operativo las 24 horas del día, los 7 días de la semana en toda la Región Metropolitana."),
     ("¿Cuáles son los medios de pago disponibles?", "Aceptamos transferencias electrónicas bancarias, tarjetas de débito/crédito y efectivo, emitiendo boleta o factura formal."),
-    ("¿Cuál es el canal más rápido para coordinar una visita técnica?", "Nuestro canal prioritario es WhatsApp (+56 9 3223 7072) o llamada telefónica directa, donde un técnico le orientará de inmediato.")
+    ("¿Cuál es el canal más rápido para coordinar una visita técnica?", "Nuestro canal prioritario es WhatsApp (+56 9 4987 7316) o llamada telefónica directa, donde un técnico le orientará de inmediato.")
 ]
 
 def build_faq_html(faqs):
@@ -619,7 +619,7 @@ def generate_page_html(page):
         "image": "https://especialista-fugas.cl/assets/images/logotipo.jpg",
         "logo": "https://especialista-fugas.cl/assets/images/logotipo.jpg",
         "url": "{canonical_url}",
-        "telephone": "+56932237072",
+        "telephone": "+56949877316",
         "priceRange": "$$",
         "address": {{
           "@type": "PostalAddress",
@@ -666,12 +666,12 @@ def generate_page_html(page):
       <div class="emergency-pulse">
         <span class="pulse-dot"></span>
         <span class="top-bar-text-desktop"><strong>EMERGENCIAS 24/7:</strong> Técnicos Autorizados SEC de Guardia Inmediata</span>
-        <a href="tel:+56932237072" class="top-bar-text-mobile">🚨 Emergencias 24/7 SEC • <strong>📞 +56 9 3223 7072</strong></a>
+        <a href="tel:+56949877316" class="top-bar-text-mobile">🚨 Emergencias 24/7 SEC • <strong>📞 +56 9 4987 7316</strong></a>
       </div>
       <div class="top-bar-contact">
-        <span>Llamada Urgente: <a class="top-bar-link" href="tel:+56932237072"><strong>+56 9 3223 7072</strong></a></span>
+        <span>Llamada Urgente: <a class="top-bar-link" href="tel:+56949877316"><strong>+56 9 4987 7316</strong></a></span>
         <span>•</span>
-        <a class="top-bar-link" href="https://wa.me/56932237072?text=Hola,%20solicito%20atenci%C3%B3n%20urgente%20para%20{page['breadcrumb_name']}" target="_blank" rel="noopener">WhatsApp Inmediato 💬</a>
+        <a class="top-bar-link" href="https://wa.me/56949877316?text=Hola,%20solicito%20atenci%C3%B3n%20urgente%20para%20{page['breadcrumb_name']}" target="_blank" rel="noopener">WhatsApp Inmediato 💬</a>
       </div>
     </div>
   </aside>
@@ -732,10 +732,10 @@ def generate_page_html(page):
 
       <!-- Action Buttons -->
       <div class="header-ctas">
-        <a href="tel:+56932237072" class="btn-header-call" aria-label="Llamar al gasfiter">
-          📞 9 3223 7072
+        <a href="tel:+56949877316" class="btn-header-call" aria-label="Llamar al gasfiter">
+          📞 949 877 316
         </a>
-        <a href="https://wa.me/56932237072?text=Hola,%20solicito%20atenci%C3%B3n%20para%20{page['breadcrumb_name']}" class="btn-header-wa" target="_blank" rel="noopener" aria-label="Abrir WhatsApp">
+        <a href="https://wa.me/56949877316?text=Hola,%20solicito%20atenci%C3%B3n%20para%20{page['breadcrumb_name']}" class="btn-header-wa" target="_blank" rel="noopener" aria-label="Abrir WhatsApp">
           <svg class="icon-wa" width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
             <path d="M.057 24l1.687-6.163c-1.041-1.804-1.588-3.849-1.587-5.946.003-6.556 5.338-11.891 11.893-11.891 3.181.001 6.167 1.24 8.413 3.488 2.245 2.248 3.481 5.236 3.48 8.414-.003 6.557-5.338 11.892-11.893 11.892-1.99-.001-3.951-.5-5.688-1.448l-6.305 1.654zm6.597-3.807c1.676.995 3.276 1.591 5.392 1.592 5.448 0 9.886-4.434 9.889-9.885.002-5.462-4.415-9.89-9.881-9.892-5.452 0-9.887 4.434-9.889 9.884-.001 2.225.651 3.891 1.746 5.634l-.999 3.648 3.742-.981zm11.387-5.464c-.074-.124-.272-.198-.57-.347-.297-.149-1.758-.868-2.031-.967-.272-.099-.47-.149-.669.149-.198.297-.768.967-.941 1.165-.173.198-.347.223-.644.074-.297-.149-1.255-.462-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.297-.347.446-.521.151-.172.2-.296.3-.495.099-.198.05-.372-.025-.521-.075-.148-.669-1.611-.916-2.206-.242-.579-.487-.501-.669-.51l-.57-.01c-.198 0-.52.074-.792.372s-1.04 1.016-1.04 2.479 1.065 2.876 1.213 3.074c.149.198 2.095 3.2 5.076 4.487.709.306 1.263.489 1.694.626.712.226 1.36.194 1.872.118.571-.085 1.758-.719 2.006-1.413.248-.695.248-1.29.173-1.414z"/>
           </svg>
@@ -808,8 +808,8 @@ def generate_page_html(page):
     </div>
 
     <div class="mobile-drawer-footer">
-      <a href="tel:+56932237072" class="btn-sticky-call" style="width: 100%;">📞 Llamar: 9 3223 7072</a>
-      <a href="https://wa.me/56932237072?text=Hola,%20solicito%20atenci%C3%B3n%20urgente%20para%20{page['breadcrumb_name']}" class="btn-sticky-wa" target="_blank" rel="noopener" style="width: 100%;">💬 WhatsApp 24/7</a>
+      <a href="tel:+56949877316" class="btn-sticky-call" style="width: 100%;">📞 Llamar: 949 877 316</a>
+      <a href="https://wa.me/56949877316?text=Hola,%20solicito%20atenci%C3%B3n%20urgente%20para%20{page['breadcrumb_name']}" class="btn-sticky-wa" target="_blank" rel="noopener" style="width: 100%;">💬 WhatsApp 24/7</a>
     </div>
   </aside>
 
@@ -856,10 +856,10 @@ def generate_page_html(page):
           </div>
 
           <div class="hero-actions">
-            <a href="tel:+56932237072" class="btn-hero-emergency">
-              🚨 Llamar a Emergencias: 9 3223 7072
+            <a href="tel:+56949877316" class="btn-hero-emergency">
+              🚨 Llamar a Emergencias: 949 877 316
             </a>
-            <a href="https://wa.me/56932237072?text=Hola%20Especialista%20en%20Fugas,%20necesito%20asistencia%20inmediata%20para%20{page['breadcrumb_name']}" class="btn-hero-wa" target="_blank" rel="noopener">
+            <a href="https://wa.me/56949877316?text=Hola%20Especialista%20en%20Fugas,%20necesito%20asistencia%20inmediata%20para%20{page['breadcrumb_name']}" class="btn-hero-wa" target="_blank" rel="noopener">
               💬 Enviar WhatsApp Directo
             </a>
           </div>
@@ -967,7 +967,7 @@ def generate_page_html(page):
               Nuestras cuadrillas cuentan con acreditación oficial vigente para asegurar la validez legal ante las compañías distribuidoras (Metrogas, Lipigas, Abastible, Gasco) y compañías de seguros.
             </p>
             <div style="margin-top: 10px;">
-              <a href="https://wa.me/56932237072?text=Hola,%20deseo%20validar%20mi%20instalaci%C3%B3n%20para%20{page['breadcrumb_name']}" class="btn-hero-emergency" target="_blank" rel="noopener">
+              <a href="https://wa.me/56949877316?text=Hola,%20deseo%20validar%20mi%20instalaci%C3%B3n%20para%20{page['breadcrumb_name']}" class="btn-hero-emergency" target="_blank" rel="noopener">
                 💬 Solicitar Visita de Técnico Autorizado SEC
               </a>
             </div>
@@ -1008,10 +1008,10 @@ def generate_page_html(page):
           No deje que una fuga de gas o agua comprometa su seguridad ni su patrimonio. Contáctenos ahora mismo al WhatsApp oficial.
         </p>
         <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
-          <a href="tel:+56932237072" class="btn-hero-emergency" style="background: #FFFFFF; color: #D90429; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-            📞 Llamar Ahora: +56 9 3223 7072
+          <a href="tel:+56949877316" class="btn-hero-emergency" style="background: #FFFFFF; color: #D90429; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
+            📞 Llamar Ahora: +56 9 4987 7316
           </a>
-          <a href="https://wa.me/56932237072?text=Hola,%20solicito%20atenci%C3%B3n%20urgente%20para%20{page['breadcrumb_name']}" class="btn-hero-wa" target="_blank" rel="noopener">
+          <a href="https://wa.me/56949877316?text=Hola,%20solicito%20atenci%C3%B3n%20urgente%20para%20{page['breadcrumb_name']}" class="btn-hero-wa" target="_blank" rel="noopener">
             💬 WhatsApp 24/7 Urgente
           </a>
         </div>
@@ -1067,9 +1067,9 @@ def generate_page_html(page):
           <div class="footer-column-title">Atención 24/7</div>
           <ul class="footer-links">
             <li><strong>Central Telefónica:</strong></li>
-            <li><a href="tel:+56932237072" class="footer-link" style="color: #FFFFFF; font-weight: 700;">📞 (+56) 9 3223 7072</a></li>
+            <li><a href="tel:+56949877316" class="footer-link" style="color: #FFFFFF; font-weight: 700;">📞 (+56) 9 4987 7316</a></li>
             <li style="margin-top: 8px;"><strong>WhatsApp Técnico:</strong></li>
-            <li><a href="https://wa.me/56932237072?text=Hola,%20solicito%20atenci%C3%B3n%20para%20{page['breadcrumb_name']}" class="footer-link" style="color: #25D366; font-weight: 700;" target="_blank" rel="noopener">💬 Chatear por WhatsApp</a></li>
+            <li><a href="https://wa.me/56949877316?text=Hola,%20solicito%20atenci%C3%B3n%20para%20{page['breadcrumb_name']}" class="footer-link" style="color: #25D366; font-weight: 700;" target="_blank" rel="noopener">💬 Chatear por WhatsApp</a></li>
             <li style="margin-top: 8px;"><strong>Cobertura:</strong></li>
             <li>Región Metropolitana, V y VI Región</li>
             <li>Lunes a Domingo las 24 horas</li>
@@ -1090,10 +1090,10 @@ def generate_page_html(page):
 
   <!-- Sticky Bottom Quick Action Bar for Mobile -->
   <aside class="mobile-sticky-bar" aria-label="Contacto Rápido Móvil">
-    <a href="tel:+56932237072" class="btn-sticky-call">
+    <a href="tel:+56949877316" class="btn-sticky-call">
       📞 Llamar 24/7
     </a>
-    <a href="https://wa.me/56932237072?text=Hola%20Especialista%20en%20Fugas,%20tengo%20una%20emergencia%20para%20{page['breadcrumb_name']}" class="btn-sticky-wa" target="_blank" rel="noopener">
+    <a href="https://wa.me/56949877316?text=Hola%20Especialista%20en%20Fugas,%20tengo%20una%20emergencia%20para%20{page['breadcrumb_name']}" class="btn-sticky-wa" target="_blank" rel="noopener">
       💬 WhatsApp Urgente
     </a>
   </aside>
