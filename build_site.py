@@ -511,6 +511,240 @@ PAGES_DATA = [
           ("¿Trabajan con redes comerciales en San Joaquín?", "Sí, realizamos pruebas de hermeticidad y sellado en locales gastronómicos e industrias."),
           ("¿Cuánto tardan en acudir a una emergencia en San Joaquín?", "Llegamos en aproximadamente 30 minutos.")
         ]
+    },
+
+    # 25. New Commune: Las Condes
+    {
+        "slug": "fuga-de-gas-las-condes",
+        "title": "▷ Fuga de Gas en Las Condes 【 Gásfiter SEC San Damián & El Golf 】✔️",
+        "meta_desc": "Detección y sellado de fugas de gas en Las Condes (El Golf, San Damián, Los Dominicos). Gásfiter autorizado SEC. Sin picar muros ni baldosas. Tel: +56 9 4987 7316.",
+        "h1": "Detección y Sellado de <span class='highlight-red'>Fugas de Gas en Las Condes</span>",
+        "hero_badge": "📍 ATENCIÓN EXPRESS EN LAS CONDES • TÉCNICOS AUTORIZADOS SEC",
+        "intro": "Servicio de urgencia para casas y departamentos en Las Condes. Solución definitiva a fugas de gas sin picar muros ni baldosas mediante tecnología alemana Prodoral R6-1 y detección con gas trazador.",
+        "breadcrumb_name": "Las Condes",
+        "service_focus": "Servicio técnico SEC de alta precisión en viviendas y edificios de Las Condes.",
+        "specific_content": "<h2>Servicio Técnico de Alta Precisión para Las Condes</h2><p>En Las Condes, demoler muros o levantar pisos de madera noble, porcelanatos o mármol para buscar una fuga de gas genera daños patrimoniales cuantiosos. En <strong>Especialista en Fugas</strong> utilizamos tecnología de localización acústica con geófonos, gas trazador (Formigas) y sellado polimérico alemán <strong>Prodoral R6-1</strong>.</p><p>Cubrimos con rapidez El Golf, San Damián, San Carlos de Apoquindo, Los Dominicos, Manquehue, Estoril y Avenida Las Condes, restableciendo la hermeticidad de la red en el mismo día con certificación reglamentaria SEC.</p>",
+        "faqs": [
+          ("¿Cuánto tardan en llegar a una emergencia en Las Condes?", "Nuestra cuadrilla asignada a la zona oriente arriba habitualmente en un lapso de 25 a 40 minutos."),
+          ("¿Qué ocurre si Metrogas retiró el medidor en mi departamento de Las Condes?", "Efectuamos el sellado sin demoler, realizamos la prueba manométrica oficial y extendemos el certificado técnico SEC para que Metrogas reactive el suministro con urgencia."),
+          ("¿El sellado Prodoral daña las terminaciones de mi vivienda?", "No. El producto se inyecta directamente por las cañerías existentes sin picar paredes ni romper pisos.")
+        ]
+    },
+
+    # 26. New Commune: Providencia
+    {
+        "slug": "fuga-de-gas-providencia",
+        "title": "▷ Fuga de Gas en Providencia 【 Gásfiter SEC Los Leones & Pedro de Valdivia 】✔️",
+        "meta_desc": "Reparación y detección de fugas de gas en Providencia (Los Leones, Pedro de Valdivia, Pocuro). Gásfiter SEC. Sellado Prodoral sin romper. Tel: +56 9 4987 7316.",
+        "h1": "Detección y Reparación de <span class='highlight-red'>Fugas de Gas en Providencia</span>",
+        "hero_badge": "📍 COBERTURA INMEDIATA EN PROVIDENCIA • INSTALADORES SEC",
+        "intro": "Atención especializada para edificios residenciales, departamentos y casas en Providencia. Sellado de microfugas de gas sin romper muros ni shafts comunitarios con polímero alemán Prodoral R6-1.",
+        "breadcrumb_name": "Providencia",
+        "service_focus": "Detección y sellado de fugas en edificios y casas de Providencia.",
+        "specific_content": "<h2>Expertos en Edificios Residenciales y Casas Patrimoniales de Providencia</h2><p>Providencia concentra una gran cantidad de edificios residenciales de media y gran altura, además de construcciones patrimoniales y locales gastronómicos en barrios como Manuel Montt, Bellavista y Barrio Italia. Una microfuga en shafts o ductos comunes puede provocar el corte inmediato de todo el suministro.</p><p>Aplicamos sellado interno con Prodoral R6-1, evitando picar losas comunitarias o muros estructurales, y gestionamos la regularización ante Metrogas con instaladores autorizados SEC de clase superior.</p>",
+        "faqs": [
+          ("¿Atienden edificios comunitarios y shafts de gas en Providencia?", "Sí, trabajamos habitualmente con comités de administración y administradores de edificios en Providencia, emitiendo cotizaciones y facturas formales."),
+          ("¿Cuánto tiempo toma normalizar una fuga de gas en un departamento?", "El diagnóstico y sellado polimérico se completa en una sola jornada de 4 a 6 horas."),
+          ("¿Cuentan con atención de emergencias los fines de semana en Providencia?", "Sí, nuestro servicio de guardia técnica funciona las 24 horas del día, los 7 días de la semana.")
+        ]
+    },
+
+    # 27. New Commune: Vitacura
+    {
+        "slug": "fuga-de-gas-vitacura",
+        "title": "▷ Fuga de Gas en Vitacura 【 Gásfiter SEC Lo Curro & Jardín del Este 】✔️",
+        "meta_desc": "Sellado no destructivo y detección de fugas de gas en Vitacura (Lo Curro, Santa María de Manquehue, Tabancura). Instalador SEC. Tel: +56 9 4987 7316.",
+        "h1": "Detección y Sellado de <span class='highlight-red'>Fugas de Gas en Vitacura</span>",
+        "hero_badge": "📍 SERVICIO TÉCNICO PREMIUM EN VITACURA • AUTORIZADO SEC",
+        "intro": "Servicio de alta exigencia para residencias y departamentos en Vitacura. Reparamos microfugas sin dañar acabados de lujo, baldosas ni pisos flotantes mediante tecnología Prodoral R6-1.",
+        "breadcrumb_name": "Vitacura",
+        "service_focus": "Servicio técnico SEC de alta gama en la comuna de Vitacura.",
+        "specific_content": "<h2>Cero Roturas de Acabados Exclusivos en Vitacura</h2><p>En residencias de Lo Curro, Santa María de Manquehue, Jardín del Este y Tabancura, las redes de gas suelen recorrer losas radiantes, tabiquerías finas y terrazas con pavimentos importados. Romper a ciegas para encontrar una fisura es una alternativa costosa y desproporcionada.</p><p>En <strong>Especialista en Fugas</strong> garantizamos la recuperación de la hermeticidad total inyectando Prodoral R6-1 por el interior de la tubería. Además, disponemos de gas trazador no inflamable para localizar filtraciones complejas en jardines y matrices enterradas.</p>",
+        "faqs": [
+          ("¿Pueden intervenir cañerías bajo losas o pisos de mármol en Vitacura sin picar?", "Efectivamente. Con Prodoral R6-1 la reparación se hace 100% por el interior de la cañería sin tocar revestimientos ni pisos."),
+          ("¿Cuánto tardan en acudir a una emergencia en Vitacura?", "El equipo técnico para Vitacura tiene un tiempo de arribo preferente de 25 a 35 minutos."),
+          ("¿Emiten certificados oficiales para Metrogas en Vitacura?", "Sí, realizamos la prueba manométrica oficial y emitimos el formulario SEC correspondiente para la reapertura del medidor.")
+        ]
+    },
+
+    # 28. New Commune: Lo Barnechea
+    {
+        "slug": "fuga-de-gas-lo-barnechea",
+        "title": "▷ Fuga de Gas en Lo Barnechea 【 Gásfiter SEC La Dehesa & Trapenses 】✔️",
+        "meta_desc": "Servicio de urgencia por fuga de gas en Lo Barnechea (La Dehesa, Los Trapenses, El Arrayán). Gásfiter autorizado SEC. Prodoral R6-1 sin romper. Tel: +56 9 4987 7316.",
+        "h1": "Detección y Sellado de <span class='highlight-red'>Fugas de Gas en Lo Barnechea</span>",
+        "hero_badge": "📍 COBERTURA EN LA DEHESA, LOS TRAPENSES Y EL ARRAYÁN",
+        "intro": "Atención especializada para residencias de alto metraje y parcelas en Lo Barnechea. Localización milimétrica con gas trazador y sellado hermético definitivo sin obras civiles.",
+        "breadcrumb_name": "Lo Barnechea",
+        "service_focus": "Servicio técnico SEC especializado en residencias y parcelas de Lo Barnechea.",
+        "specific_content": "<h2>Soluciones Avanzadas para Grandes Residencias y Parcelas de Lo Barnechea</h2><p>En sectores como La Dehesa, Los Trapenses, Valle Escondido y El Arrayán, las instalaciones de gas comprenden extensas redes bajo radier, cañerías empotradas y tanques de gas a granel o conexiones directas a Gas Natural. Una caída de presión en estos circuitos requiere instrumental diagnóstico de alta gama.</p><p>Nuestros técnicos autorizados SEC emplean geófonos digitales, detectores de hidrógenos Formigas y el método de sellado polimérico alemán para subsanar microfugas sin alterar jardines ni estructuras.</p>",
+        "faqs": [
+          ("¿Atienden parcelas y condominios en El Arrayán y Los Trapenses?", "Sí, cubrimos toda la comuna de Lo Barnechea con vehículos equipados con instrumental móvil avanzado."),
+          ("¿Detectan fugas en estanques de gas licuado a granel?", "Sí, revisamos la matriz completa desde la llave de salida del tanque hasta cada artefacto receptor."),
+          ("¿Qué garantía entregan por el sellado de cañerías?", "Otorgamos garantía escrita y certificamos la hermeticidad con manómetros calibrados ante la SEC.")
+        ]
+    },
+
+    # 29. New Commune: Ñuñoa
+    {
+        "slug": "fuga-de-gas-nunoa",
+        "title": "▷ Fuga de Gas en Ñuñoa 【 Gásfiter SEC Plaza Ñuñoa & Irarrázaval 】✔️",
+        "meta_desc": "Reparación y detección de fugas de gas en Ñuñoa (Plaza Ñuñoa, Irarrázaval, Simón Bolívar). Gásfiter SEC. Sello Verde y sellado sin picar. Tel: +56 9 4987 7316.",
+        "h1": "Detección y Reparación de <span class='highlight-red'>Fugas de Gas en Ñuñoa</span>",
+        "hero_badge": "📍 ATENCIÓN RÁPIDA EN ÑUÑOA • INSTALADOR AUTORIZADO SEC",
+        "intro": "Servicio técnico express para viviendas y torres de departamentos en Ñuñoa. Regularización urgente de Sello Rojo, pruebas manométricas y sellado sin romper con Prodoral R6-1.",
+        "breadcrumb_name": "Ñuñoa",
+        "service_focus": "Normalización y sellado SEC a domicilio en la comuna de Ñuñoa.",
+        "specific_content": "<h2>Diagnóstico y Reparación Limpia de Fugas en Casas y Edificios de Ñuñoa</h2><p>Ñuñoa combina barrios residenciales clásicos con un gran auge de torres de departamentos a lo largo de Irarrázaval, Grecia y Avenida José Pedro Alessandri. Las inspecciones periódicas de Sello Verde frecuentemente arrojan rechazos por caídas de presión en cañerías embutidas.</p><p>Con nuestro sistema de inyección Prodoral R6-1, eliminamos las pérdidas microscópicas de gas en un solo día sin generar ruidos molestos, escombros ni polvo, garantizando la aprobación inmediata ante la SEC.</p>",
+        "faqs": [
+          ("¿Qué solución ofrecen si mi departamento en Ñuñoa quedó con Sello Rojo?", "Realizamos la detección exacta de la fuga, la sellamos con Prodoral R6-1 y gestionamos la nueva inspección para obtener el Sello Verde."),
+          ("¿Cuánto tardan en atender un aviso en Ñuñoa?", "Estamos a 20-30 minutos de distancia en todo el radio urbano de Ñuñoa."),
+          ("¿Reparan fugas en calefones e instalaciones de cocina?", "Sí, reparamos uniones, llaves de paso y cañerías de cobre o fierro con certificación oficial.")
+        ]
+    },
+
+    # 30. New Commune: La Reina
+    {
+        "slug": "fuga-de-gas-la-reina",
+        "title": "▷ Fuga de Gas en La Reina 【 Gásfiter SEC La Reina Alta & Príncipe de Gales 】✔️",
+        "meta_desc": "Detección y sellado de fugas de gas en La Reina (Príncipe de Gales, La Reina Alta, Larraín). Gásfiter autorizado SEC. Sin romper pisos. Tel: +56 9 4987 7316.",
+        "h1": "Reparación y Sellado de <span class='highlight-red'>Fugas de Gas en La Reina</span>",
+        "hero_badge": "📍 COBERTURA TÉCNICA EN LA REINA Y PRECORDILLERA",
+        "intro": "Instaladores autorizados SEC para casas y condominios familiares en La Reina. Localización de fugas bajo radier y sellado polimérico garantizado sin obras de demolición.",
+        "breadcrumb_name": "La Reina",
+        "service_focus": "Servicio técnico SEC integral en la comuna de La Reina.",
+        "specific_content": "<h2>Servicio Especializado para Viviendas Familiares en La Reina</h2><p>En La Reina, las viviendas suelen contar con amplios terrenos, redes de agua y gas que pasan bajo radieres de terrazas y calefacciones centrales con calderas. Una pérdida de presión puede pasar desapercibida hasta que el olor se vuelve persistente o la cuenta mensual de Metrogas se dispara.</p><p>Intervenimos con equipos de gas trazador de extrema sensibilidad y aplicamos sellado interno Prodoral R6-1 para proteger la integridad de su casa y evitar costosas obras de albañilería.</p>",
+        "faqs": [
+          ("¿Atienden emergencias en La Reina Alta y precordillera?", "Sí, atendemos condominios y casas en toda la comuna de La Reina de lunes a domingo."),
+          ("¿Cómo sé si la cañería de gas bajo mi radier tiene una fisura?", "Realizamos una prueba manométrica de presión estanca que evidencia cualquier descenso por mínimo que sea."),
+          ("¿Entregan informe técnico válido para la distribuidora de gas?", "Sí, emitimos informe formal firmado por instalador autorizado SEC.")
+        ]
+    },
+
+    # 31. New Commune: Maipú
+    {
+        "slug": "fuga-de-gas-maipu",
+        "title": "▷ Fuga de Gas en Maipú 【 Gásfiter Autorizado SEC Ciudad Satélite & Pajaritos 】✔️",
+        "meta_desc": "Detección y sellado de fugas de gas en Maipú (Ciudad Satélite, El Abrazo, Pajaritos). Gásfiter certificado SEC. Atención urgente 24/7. Tel: +56 9 4987 7316.",
+        "h1": "Detección y Reparación de <span class='highlight-red'>Fugas de Gas en Maipú</span>",
+        "hero_badge": "📍 URGENCIAS 24/7 EN MAIPÚ Y SANTIAGO PONIENTE",
+        "intro": "Cuadrilla móvil permanente para atención inmediata en Maipú. Diagnóstico de hermeticidad con equipos electrónicos y sellado sin romper con Prodoral R6-1.",
+        "breadcrumb_name": "Maipú",
+        "service_focus": "Servicio de gasfitería certificada SEC en la comuna de Maipú.",
+        "specific_content": "<h2>Atención Rápida en Condominios y Villas de Maipú</h2><p>Maipú es una de las comunas más populosas de la Región Metropolitana, con miles de casas y departamentos en sectores como Pajaritos, Ciudad Satélite, El Abrazo y La Farfana. Frecuentemente, el olor a gas en patios de servicio o cocinas alarma a las familias.</p><p>Disponemos de unidades móviles equipadas con detectores electroquímicos para encontrar la fuga al instante, sellar sin romper con tecnología Prodoral R6-1 y dejar su hogar 100% seguro con Sello Verde.</p>",
+        "faqs": [
+          ("¿Cuánto demora una cuadrilla en llegar a Ciudad Satélite o El Abrazo?", "Contamos con móviles en el sector poniente con tiempo de llegada aproximado de 30 a 45 minutos."),
+          ("¿Qué hago si siento fuerte olor a gas en mi cocina o calefón en Maipú?", "Ventile inmediatamente el área, cierre la llave de paso general y llámenos al +56 9 4987 7316."),
+          ("¿Atienden redes de gas licuado de cilindro y gas natural Metrogas?", "Sí, trabajamos con ambas matrices bajo estrictos protocolos SEC.")
+        ]
+    },
+
+    # 32. New Commune: La Florida
+    {
+        "slug": "fuga-de-gas-la-florida",
+        "title": "▷ Fuga de Gas en La Florida 【 Gásfiter SEC Jardín Alto & Rojas Magallanes 】✔️",
+        "meta_desc": "Reparación urgente de fugas de gas en La Florida (Jardín Alto, Walker Martínez, Vicuña Mackenna). Instaladores autorizados SEC 24/7. Tel: +56 9 4987 7316.",
+        "h1": "Detección y Sellado de <span class='highlight-red'>Fugas de Gas en La Florida</span>",
+        "hero_badge": "📍 ATENCIÓN DE EMERGENCIAS EN LA FLORIDA Y CORDILLERA SUR",
+        "intro": "Servicio de urgencia para casas y edificios en La Florida. Detección electrónica de fugas y sellado definitivo con garantía por escrito de instaladores SEC.",
+        "breadcrumb_name": "La Florida",
+        "service_focus": "Detección y sellado no invasivo SEC en la comuna de La Florida.",
+        "specific_content": "<h2>Cobertura Completa en Casas y Edificios de La Florida</h2><p>Desde Jardín Alto y Rojas Magallanes hasta el corredor de Vicuña Mackenna y Walker Martínez, La Florida cuenta con una variada tipología habitacional. Las fallas en cañerías empotradas por movimientos telúricos o fatiga de material son comunes en la comuna.</p><p>Brindamos solución express mediante sellado polimérico alemán sin demoler muros ni baldosas, realizando pruebas de hermeticidad de rigor para devolver la tranquilidad y el gas a su hogar.</p>",
+        "faqs": [
+          ("¿Tienen técnicos disponibles los fines de semana en La Florida?", "Sí, atendemos urgencias las 24 horas del día de lunes a domingo."),
+          ("¿Qué certificación tienen los técnicos que visitan La Florida?", "Todos son técnicos autorizados SEC con credencial física y verificación QR en línea."),
+          ("¿Pueden detectar fugas de agua oculta además de gas en La Florida?", "Sí, contamos con geófonos digitales para filtraciones en redes de agua potable.")
+        ]
+    },
+
+    # 33. New Commune: Santiago Centro
+    {
+        "slug": "fuga-de-gas-santiago-centro",
+        "title": "▷ Fuga de Gas en Santiago Centro 【 Gásfiter SEC Edificios & Departamentos 】✔️",
+        "meta_desc": "Especialistas en fugas de gas en Santiago Centro (Santa Isabel, Lastarria, Barrio Brasil). Regularización Metrogas y Sello Verde SEC. Tel: +56 9 4987 7316.",
+        "h1": "Reparación de <span class='highlight-red'>Fugas de Gas en Santiago Centro</span>",
+        "hero_badge": "📍 ESPECIALISTAS EN DEPARTAMENTOS Y EDIFICIOS DE SANTIAGO",
+        "intro": "Atención prioritaria para departamentos y comunidades en Santiago Centro. Solución a cortes de medidor de Metrogas mediante sellado Prodoral R6-1 sin demoler paredes.",
+        "breadcrumb_name": "Santiago Centro",
+        "service_focus": "Normalización urgente de gas en edificios de Santiago Centro.",
+        "specific_content": "<h2>Expertos en Normalización de Fugas en Edificios de Santiago Centro</h2><p>En Santiago Centro, la gran densidad de departamentos y comunidades residenciales hace que cualquier microfuga represente un riesgo mayúsculo. Metrogas aplica suspensiones preventivas retirando medidores al detectar pérdidas de presión en matrices o shafts.</p><p>Nuestro equipo especializado sella redes internas con polímero Prodoral R6-1 sin causar destrozos en cerámicas de cocina o baños, emitiendo el certificado manométrico SEC reglamentario para que la compañía reasigne el medidor sin demoras.</p>",
+        "faqs": [
+          ("¿Cuánto demora Metrogas en reponer el servicio tras su intervención?", "Una vez ejecutado el sellado y emitida nuestra prueba de hermeticidad SEC, Metrogas programa la reposición en el plazo mínimo normado."),
+          ("¿Es posible sellar cañerías en departamentos sin picar porcelanatos?", "Exacto, esa es la ventaja de la tecnología alemana Prodoral R6-1: no se toca ningún muro ni piso."),
+          ("¿Atienden locales comerciales y restaurantes en el centro de Santiago?", "Sí, atendemos cocinas comerciales con protocolos de máxima exigencia técnica.")
+        ]
+    },
+
+    # 34. New Commune: San Miguel
+    {
+        "slug": "fuga-de-gas-san-miguel",
+        "title": "▷ Fuga de Gas en San Miguel 【 Gásfiter SEC El Llano & Gran Avenida 】✔️",
+        "meta_desc": "Detección y reparación de fugas de gas en San Miguel (El Llano, Gran Avenida, Salesianos). Instaladores certificados SEC. Sello Verde. Tel: +56 9 4987 7316.",
+        "h1": "Detección y Sellado de <span class='highlight-red'>Fugas de Gas en San Miguel</span>",
+        "hero_badge": "📍 COBERTURA RÁPIDA EN SAN MIGUEL Y SANTIAGO SUR",
+        "intro": "Gásfiter autorizado SEC para viviendas y edificios en San Miguel. Detección no destructiva de fugas de gas y sellado garantizado con informe oficial de hermeticidad.",
+        "breadcrumb_name": "San Miguel",
+        "service_focus": "Servicio técnico SEC certificado en San Miguel.",
+        "specific_content": "<h2>Servicio Técnico Confiable en San Miguel</h2><p>San Miguel ha experimentado un fuerte crecimiento vertical en Gran Avenida, combinado con el tradicional barrio residencial de El Llano Subercaseaux. Las redes de gas en departamentos nuevos y casas clásicas requieren una revisión exhaustiva ante bajas de presión o malos olores.</p><p>Aplicamos instrumental de última generación para ubicar pérdidas milimétricas y procedemos al sellado limpio sin roturas con Prodoral R6-1, respaldado por instaladores acreditados SEC.</p>",
+        "faqs": [
+          ("¿Cuánto demoran en llegar a una emergencia en San Miguel?", "Nuestra base suroriental nos permite arribar en aproximadamente 25 a 35 minutos."),
+          ("¿Entregan informe para regularización de Sello Rojo en San Miguel?", "Sí, dejamos la red en norma y emitimos el documento técnico para la obtención del Sello Verde."),
+          ("¿Reparan cañerías en edificios antiguos de El Llano?", "Sí, reparamos redes de cobre y cañerías galvanizadas con total garantía.")
+        ]
+    },
+
+    # 35. New Commune: Macul
+    {
+        "slug": "fuga-de-gas-macul",
+        "title": "▷ Fuga de Gas en Macul 【 Gásfiter Certificado SEC Quilín & Macul Alto 】✔️",
+        "meta_desc": "Detección de fugas de gas y sellado sin romper en Macul (Quilín, Macul Alto, Ramón Cruz). Gásfiter autorizado SEC 24/7. Tel: +56 9 4987 7316.",
+        "h1": "Detección y Reparación de <span class='highlight-red'>Fugas de Gas en Macul</span>",
+        "hero_badge": "📍 ATENCIÓN EXPRESS EN MACUL Y COMUNAS ALEDAÑAS",
+        "intro": "Atención especializada para hogares y condominios en Macul. Localización precisa de pérdidas de gas con detectores digitales y sellado sin picar pisos.",
+        "breadcrumb_name": "Macul",
+        "service_focus": "Detección y reparación de fugas en la comuna de Macul.",
+        "specific_content": "<h2>Soluciones Integrales para Hogares e Industrias en Macul</h2><p>En Macul atendemos desde las zonas residenciales de Macul Alto y Quilín hasta los condominios consolidados cercanos a Marathon y Escuela Agrícola. Las cañerías empotradas en losas pueden sufrir fisuras en uniones que el ojo humano no puede ver.</p><p>Con nuestro equipamiento manométrico y detectores de gas de alta precisión, localizamos y sellamos la fuga sin necesidad de romper muros ni cerámicas, otorgando garantía técnica por escrito.</p>",
+        "faqs": [
+          ("¿Tienen cobertura de emergencia en Macul?", "Sí, atendemos llamados de urgencia los 7 días de la semana las 24 horas."),
+          ("¿Qué métodos usan para detectar fugas ocultas?", "Utilizamos manometría digital de alta precisión, detectores de gas con sniffer y gas trazador inerte."),
+          ("¿Pueden verificar la instalación completa de mi vivienda en Macul?", "Sí, realizamos una inspección integral de hermeticidad y artefactos (calefón, cocina y estufas).")
+        ]
+    },
+
+    # 36. New Commune: Pudahuel
+    {
+        "slug": "fuga-de-gas-pudahuel",
+        "title": "▷ Fuga de Gas en Pudahuel 【 Gásfiter SEC Ciudad de Los Valles & Enea 】✔️",
+        "meta_desc": "Urgencias por fuga de gas en Pudahuel (Ciudad de Los Valles, Pudahuel Sur, Enea, Lo Aguirre). Instalador SEC. Sellado sin romper. Tel: +56 9 4987 7316.",
+        "h1": "Detección y Sellado de <span class='highlight-red'>Fugas de Gas en Pudahuel</span>",
+        "hero_badge": "📍 COBERTURA EN CIUDAD DE LOS VALLES, ENEA Y PUDAHUEL",
+        "intro": "Servicio técnico SEC para condominios residenciales y empresas en Pudahuel. Expertos en detección con gas trazador y sellado de microfugas sin roturas.",
+        "breadcrumb_name": "Pudahuel",
+        "service_focus": "Servicio de gasfitería autorizada SEC en Pudahuel.",
+        "specific_content": "<h2>Servicio Certificado para Condominios y Empresas en Pudahuel</h2><p>Cubrimos los extensos condominios de Ciudad de Los Valles y Lo Aguirre, las residencias de Pudahuel Sur y los centros logísticos del parque industrial Enea. En condominios suburbanos las redes suelen ser largas y transitar bajo jardines o radieres de estacionamiento.</p><p>Ubicamos filtraciones subterráneas con gas trazador y aplicamos sellado interno Prodoral R6-1 sin demoliciones, asegurando el cumplimiento estricto de la normativa SEC.</p>",
+        "faqs": [
+          ("¿Llegan a Ciudad de Los Valles y Lo Aguirre?", "Sí, nuestras unidades transitan por la Ruta 68 con respuesta ágil para estos condominios."),
+          ("¿Reparan fugas en empresas y bodegas de Enea?", "Sí, prestamos servicio a recintos industriales con entrega de informes técnicos y facturación."),
+          ("¿Qué garantía entregan en la reparación?", "Ofrecemos garantía por escrito y certificación manométrica de hermeticidad al 100%.")
+        ]
+    },
+
+    # 37. New Commune: Lampa
+    {
+        "slug": "fuga-de-gas-lampa",
+        "title": "▷ Fuga de Gas en Lampa 【 Gásfiter SEC Valle Grande, Batuco & Chicauma 】✔️",
+        "meta_desc": "Detección y reparación de fugas de gas en Lampa (Valle Grande, Batuco, Chicauma, Larapinto). Gásfiter autorizado SEC. WhatsApp: +56 9 4987 7316.",
+        "h1": "Reparación y Sellado de <span class='highlight-red'>Fugas de Gas en Lampa</span>",
+        "hero_badge": "📍 ATENCIÓN EN VALLE GRANDE, BATUCO, CHICAUMA Y PARCELAS",
+        "intro": "Instaladores autorizados SEC en Lampa, Valle Grande y Batuco. Detección en redes subterráneas, estanques de gas a granel y sellado no invasivo con Prodoral R6-1.",
+        "breadcrumb_name": "Lampa",
+        "service_focus": "Servicio técnico SEC en condominios y parcelas de Lampa.",
+        "specific_content": "<h2>Especialistas en Parcelas y Nuevos Condominios de Lampa</h2><p>En Lampa convergen condominios de reciente desarrollo como Valle Grande y Chicauma, junto con amplias parcelaciones en Batuco y Larapinto. Las redes de gas en estas zonas a menudo dependen de estanques de gas licuado (GLP) a granel o redes subterráneas extensas que sufren por asentamiento de terreno.</p><p>Realizamos localización no destructiva con gas trazador y sellado polimérico alemán Prodoral R6-1 para rehabilitar la red sin necesidad de excavar jardines ni romper pavimentos.</p>",
+        "faqs": [
+          ("¿Atienden condominios en Valle Grande y Chicauma?", "Sí, mantenemos constante cobertura en Valle Grande y todos los desarrollos inmobiliarios de Lampa."),
+          ("¿Reparan redes asociadas a estanques de gas en Batuco?", "Sí, revisamos la matriz desde la salida del tanque hasta el interior de la vivienda."),
+          ("¿Cómo solicitar una visita urgente en Lampa?", "Contáctenos vía WhatsApp o llamada telefónica al +56 9 4987 7316 para despacho inmediato.")
+        ]
     }
 ]
 
@@ -714,14 +948,29 @@ def generate_page_html(page):
 
         <div class="nav-item-dropdown">
           <a href="../#cobertura" class="nav-link">Comunas ▾</a>
-          <div class="dropdown-menu">
-            <a href="../fuga-de-gas-penalolen/" class="dropdown-item">Peñalolén</a>
-            <a href="../fuga-de-gas-pirque/" class="dropdown-item">Pirque</a>
+          <div class="dropdown-menu dropdown-menu-comunas">
+            <a href="../fuga-de-gas-las-condes/" class="dropdown-item">Las Condes</a>
+            <a href="../fuga-de-gas-providencia/" class="dropdown-item">Providencia</a>
+            <a href="../fuga-de-gas-vitacura/" class="dropdown-item">Vitacura</a>
+            <a href="../fuga-de-gas-lo-barnechea/" class="dropdown-item">Lo Barnechea</a>
+            <a href="../fuga-de-gas-nunoa/" class="dropdown-item">Ñuñoa</a>
+            <a href="../fuga-de-gas-la-reina/" class="dropdown-item">La Reina</a>
             <a href="../fuga-de-gas-la-chicureo/" class="dropdown-item">Chicureo / Colina</a>
+            <a href="../fuga-de-gas-penalolen/" class="dropdown-item">Peñalolén</a>
+            <a href="../fuga-de-gas-santiago-centro/" class="dropdown-item">Santiago Centro</a>
+            <a href="../fuga-de-gas-san-miguel/" class="dropdown-item">San Miguel</a>
+            <a href="../fuga-de-gas-maipu/" class="dropdown-item">Maipú</a>
+            <a href="../fuga-de-gas-la-florida/" class="dropdown-item">La Florida</a>
+            <a href="../fuga-de-gas-macul/" class="dropdown-item">Macul</a>
             <a href="../fuga-de-gas-puente-alto/" class="dropdown-item">Puente Alto</a>
             <a href="../fuga-de-gas-san-bernardo/" class="dropdown-item">San Bernardo</a>
             <a href="../fuga-de-gas-quinta-normal/" class="dropdown-item">Quinta Normal</a>
+            <a href="../fuga-de-gas-san-joaquin/" class="dropdown-item">San Joaquín</a>
+            <a href="../fuga-de-gas-pudahuel/" class="dropdown-item">Pudahuel</a>
+            <a href="../fuga-de-gas-lampa/" class="dropdown-item">Lampa</a>
+            <a href="../fuga-de-gas-pirque/" class="dropdown-item">Pirque</a>
             <a href="../fuga-de-gas-paine/" class="dropdown-item">Paine</a>
+            <a href="../fuga-de-gas-maria-pinto/" class="dropdown-item">María Pinto</a>
             <a href="../fuga-de-gas-rancagua/" class="dropdown-item">Rancagua</a>
             <a href="../fuga-de-gas-papudo/" class="dropdown-item">Papudo</a>
           </div>
@@ -789,14 +1038,29 @@ def generate_page_html(page):
         </div>
         <div class="mobile-menu-item">
           <span class="mobile-menu-link">📍 Comunas Cobertura</span>
-          <div class="mobile-submenu">
-            <a href="../fuga-de-gas-penalolen/" class="mobile-sub-link">Peñalolén</a>
-            <a href="../fuga-de-gas-pirque/" class="mobile-sub-link">Pirque</a>
+          <div class="mobile-submenu mobile-submenu-comunas">
+            <a href="../fuga-de-gas-las-condes/" class="mobile-sub-link">Las Condes</a>
+            <a href="../fuga-de-gas-providencia/" class="mobile-sub-link">Providencia</a>
+            <a href="../fuga-de-gas-vitacura/" class="mobile-sub-link">Vitacura</a>
+            <a href="../fuga-de-gas-lo-barnechea/" class="mobile-sub-link">Lo Barnechea</a>
+            <a href="../fuga-de-gas-nunoa/" class="mobile-sub-link">Ñuñoa</a>
+            <a href="../fuga-de-gas-la-reina/" class="mobile-sub-link">La Reina</a>
             <a href="../fuga-de-gas-la-chicureo/" class="mobile-sub-link">Chicureo / Colina</a>
+            <a href="../fuga-de-gas-penalolen/" class="mobile-sub-link">Peñalolén</a>
+            <a href="../fuga-de-gas-santiago-centro/" class="mobile-sub-link">Santiago Centro</a>
+            <a href="../fuga-de-gas-san-miguel/" class="mobile-sub-link">San Miguel</a>
+            <a href="../fuga-de-gas-maipu/" class="mobile-sub-link">Maipú</a>
+            <a href="../fuga-de-gas-la-florida/" class="mobile-sub-link">La Florida</a>
+            <a href="../fuga-de-gas-macul/" class="mobile-sub-link">Macul</a>
             <a href="../fuga-de-gas-puente-alto/" class="mobile-sub-link">Puente Alto</a>
             <a href="../fuga-de-gas-san-bernardo/" class="mobile-sub-link">San Bernardo</a>
             <a href="../fuga-de-gas-quinta-normal/" class="mobile-sub-link">Quinta Normal</a>
+            <a href="../fuga-de-gas-san-joaquin/" class="mobile-sub-link">San Joaquín</a>
+            <a href="../fuga-de-gas-pudahuel/" class="mobile-sub-link">Pudahuel</a>
+            <a href="../fuga-de-gas-lampa/" class="mobile-sub-link">Lampa</a>
+            <a href="../fuga-de-gas-pirque/" class="mobile-sub-link">Pirque</a>
             <a href="../fuga-de-gas-paine/" class="mobile-sub-link">Paine</a>
+            <a href="../fuga-de-gas-maria-pinto/" class="mobile-sub-link">María Pinto</a>
             <a href="../fuga-de-gas-rancagua/" class="mobile-sub-link">Rancagua</a>
             <a href="../fuga-de-gas-papudo/" class="mobile-sub-link">Papudo</a>
           </div>
