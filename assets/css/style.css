@@ -1066,8 +1066,13 @@ button, input, select, textarea {
   align-items: center;
   gap: 10px;
   font-size: 1rem;
-  font-weight: 600;
+  font-weight: 500;
   color: #F8FAFC;
+}
+
+.checklist-title {
+  font-weight: 700;
+  color: #FFFFFF;
 }
 
 .check-icon {
@@ -1905,4 +1910,126 @@ button, input, select, textarea {
 .breadcrumbs .current {
   color: var(--text-main);
   font-weight: 600;
+}
+
+/* ==========================================================================
+   SEO UTILITIES & BOLD TAG BALANCING
+   ========================================================================== */
+.top-bar-badge {
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.phone-highlight {
+  font-weight: 700;
+  color: #FFFFFF;
+}
+
+.footer-label {
+  font-weight: 700;
+  color: #FFFFFF;
+  display: block;
+}
+
+.table-row-title {
+  font-weight: 700;
+  color: var(--text-main);
+}
+
+.brand-inline {
+  font-weight: 700;
+  color: var(--text-main);
+}
+
+/* ==========================================================================
+   SOCIAL MEDIA SHARE & ENGAGEMENT BAR (SEO & Open Graph)
+   ========================================================================== */
+.social-share-section {
+  padding: 24px 0;
+  background: var(--surface-alt);
+  border-top: 1px solid var(--border-light);
+  border-bottom: 1px solid var(--border-light);
+}
+
+.social-share-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+
+.social-share-title {
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: var(--text-main);
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.social-share-links {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.social-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 8px 14px;
+  border-radius: var(--radius-sm);
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-decoration: none;
+  transition: all 0.2s ease;
+  box-shadow: var(--shadow-sm);
+}
+
+.social-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-md);
+}
+
+.social-btn-wa {
+  background-color: #25D366;
+  color: #FFFFFF !important;
+}
+.social-btn-wa:hover {
+  background-color: #1EBE5D;
+}
+
+.social-btn-fb {
+  background-color: #1877F2;
+  color: #FFFFFF !important;
+}
+.social-btn-fb:hover {
+  background-color: #0E65D9;
+}
+
+.social-btn-tw {
+  background-color: #0F1419;
+  color: #FFFFFF !important;
+}
+.social-btn-tw:hover {
+  background-color: #272C30;
+}
+
+.social-btn-li {
+  background-color: #0A66C2;
+  color: #FFFFFF !important;
+}
+.social-btn-li:hover {
+  background-color: #084E96;
+}
+
+.social-btn-call {
+  background-color: var(--primary);
+  color: #FFFFFF !important;
+}
+.social-btn-call:hover {
+  background-color: var(--primary-hover);
 }

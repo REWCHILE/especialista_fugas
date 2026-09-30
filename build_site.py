@@ -97,7 +97,7 @@ PAGES_DATA = [
         "service_focus": "Localización y reparación de filtraciones de agua potable fría y caliente.",
         "specific_content": """
         <h2>Detenga las Filtraciones Ocultas y los Cobros Excesivos en su Cuenta de Agua</h2>
-        <p>Una fuga silenciosa en una cañería de agua puede desperdiciar miles de litros al mes, saturar el terreno provocando socavones bajo el radier y dañar cimientos estructurales. En <strong>Especialista en Fugas</strong> utilizamos tecnología no invasiva de amplificación sonora y termografía infrarroja para encontrar la falla con exactitud milimétrica.</p>
+        <p>Una fuga silenciosa en una cañería de agua puede desperdiciar miles de litros al mes, saturar el terreno provocando socavones bajo el radier y dañar cimientos estructurales. En <span class="brand-inline">Especialista en Fugas</span> utilizamos tecnología no invasiva de amplificación sonora y termografía infrarroja para encontrar la falla con exactitud milimétrica.</p>
         <p>Atendemos viviendas unifamiliares, comunidades de edificios, colegios, industrias y recintos comerciales con cuadrillas listas para intervenir en el acto.</p>
         """,
         "faqs": [
@@ -127,7 +127,7 @@ PAGES_DATA = [
         "specific_content": """
         <h2>¿Por Qué Su Piscina Pierde Nivel de Agua?</h2>
         <p>Una pérdida diaria de más de 0.5 cm suele indicar una fuga activa. Las filtraciones pueden originarse en fisuras del hormigón, focos subacuáticos mal sellados o colapso de cañerías de PVC enterradas entre la piscina y la sala de bombas.</p>
-        <p>En <strong>Especialista en Fugas</strong> realizamos pruebas hidrostáticas individualizadas para cada circuito (retornos, skimmers, barredera y dreno de fondo) localizando la avería sin tener que vaciar innecesariamente los miles de litros de agua de su piscina.</p>
+        <p>En <span class="brand-inline">Especialista en Fugas</span> realizamos pruebas hidrostáticas individualizadas para cada circuito (retornos, skimmers, barredera y dreno de fondo) localizando la avería sin tener que vaciar innecesariamente los miles de litros de agua de su piscina.</p>
         """,
         "faqs": [
           ("¿Cómo saber si la pérdida de agua es evaporación o fuga?", "Realice la prueba del balde: coloque un balde con agua al mismo nivel en el borde de la piscina. Si la piscina baja más rápido que el balde, hay fuga."),
@@ -820,26 +820,35 @@ def generate_page_html(page):
   <link rel="canonical" href="{canonical_url}">
   <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
   
-  <!-- Open Graph -->
+  <!-- Open Graph / Facebook -->
   <meta property="og:locale" content="es_CL">
   <meta property="og:type" content="article">
   <meta property="og:title" content="{page['title']}">
   <meta property="og:description" content="{page['meta_desc']}">
   <meta property="og:url" content="{canonical_url}">
   <meta property="og:site_name" content="Especialista en Fugas Chile">
-  <meta property="og:image" content="https://especialista-fugas.cl/assets/images/logotipo.jpg">
+  <meta property="og:image" content="https://especialista-fugas.cl/assets/images/og-banner.jpg">
+  <meta property="og:image:secure_url" content="https://especialista-fugas.cl/assets/images/og-banner.jpg">
+  <meta property="og:image:type" content="image/jpeg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="Especialista en Fugas {page['breadcrumb_name']} • Teléfono Emergencias: +56 9 4987 7316">
+  <meta property="business:contact_data:phone_number" content="+56949877316">
+  <meta property="business:contact_data:country_name" content="Chile">
+  <meta name="format-detection" content="telephone=yes">
   
   <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="{page['title']}">
   <meta name="twitter:description" content="{page['meta_desc']}">
-  <meta name="twitter:image" content="https://especialista-fugas.cl/assets/images/logotipo.jpg">
+  <meta name="twitter:image" content="https://especialista-fugas.cl/assets/images/og-banner.jpg">
+  <meta name="twitter:image:alt" content="Especialista en Fugas {page['breadcrumb_name']} • Teléfono Emergencias: +56 9 4987 7316">
 
   <!-- Favicon -->
   <link rel="icon" type="image/jpeg" href="../assets/images/logotipo.jpg">
   
   <!-- Stylesheet -->
-  <link rel="stylesheet" href="../assets/css/style.css?v=3.0">
+  <link rel="stylesheet" href="../assets/css/style.css?v=3.1">
 
   <!-- Schema.org JSON-LD -->
   <script type="application/ld+json">
@@ -899,11 +908,11 @@ def generate_page_html(page):
     <div class="container top-bar-inner">
       <div class="emergency-pulse">
         <span class="pulse-dot"></span>
-        <span class="top-bar-text-desktop"><strong>EMERGENCIAS 24/7:</strong> Técnicos Autorizados SEC de Guardia Inmediata</span>
-        <a href="tel:+56949877316" class="top-bar-text-mobile">🚨 Emergencias 24/7 SEC • <strong>📞 +56 9 4987 7316</strong></a>
+        <span class="top-bar-text-desktop"><span class="top-bar-badge">EMERGENCIAS 24/7:</span> Técnicos Autorizados SEC de Guardia Inmediata</span>
+        <a href="tel:+56949877316" class="top-bar-text-mobile">🚨 Emergencias 24/7 SEC • <span class="phone-highlight">📞 +56 9 4987 7316</span></a>
       </div>
       <div class="top-bar-contact">
-        <span>Llamada Urgente: <a class="top-bar-link" href="tel:+56949877316"><strong>+56 9 4987 7316</strong></a></span>
+        <span>Llamada Urgente: <a class="top-bar-link phone-highlight" href="tel:+56949877316">+56 9 4987 7316</a></span>
         <span>•</span>
         <a class="top-bar-link" href="https://wa.me/56949877316?text=Hola,%20solicito%20atenci%C3%B3n%20urgente%20para%20{page['breadcrumb_name']}" target="_blank" rel="noopener">WhatsApp Inmediato 💬</a>
       </div>
@@ -1107,15 +1116,15 @@ def generate_page_html(page):
           <div class="hero-checklist">
             <div class="checklist-item">
               <span class="check-icon">✓</span>
-              <span><strong>Técnicos Certificados SEC:</strong> Con credencial física y QR oficial.</span>
+              <span><span class="checklist-title">Técnicos Certificados SEC:</span> Con credencial física y QR oficial.</span>
             </div>
             <div class="checklist-item">
               <span class="check-icon">✓</span>
-              <span><strong>Cero Daños Estructurales:</strong> Diagnóstico no invasivo sin romper muros.</span>
+              <span><span class="checklist-title">Cero Daños Estructurales:</span> Diagnóstico no invasivo sin romper muros.</span>
             </div>
             <div class="checklist-item">
               <span class="check-icon">✓</span>
-              <span><strong>Garantía Escrita:</strong> Pruebas manométricas de hermeticidad certificadas.</span>
+              <span><span class="checklist-title">Garantía Escrita:</span> Pruebas manométricas de hermeticidad certificadas.</span>
             </div>
           </div>
 
@@ -1283,6 +1292,32 @@ def generate_page_html(page):
     </section>
   </main>
 
+  <!-- Social Share & Fast Recommendation Bar (SEO & Open Graph) -->
+  <section class="social-share-section" aria-label="Recomendar este servicio">
+    <div class="container social-share-inner">
+      <div class="social-share-title">
+        <span>📢 Recomendar o compartir este servicio técnico:</span>
+      </div>
+      <div class="social-share-links">
+        <a href="https://api.whatsapp.com/send?text=Especialista%20en%20Fugas%20Chile%20-%20T%C3%A9cnico%20SEC%20para%20{page['breadcrumb_name']}:%20{canonical_url}%20Tel:%20%2B56949877316" class="social-btn social-btn-wa" target="_blank" rel="noopener" aria-label="Compartir en WhatsApp">
+          💬 WhatsApp
+        </a>
+        <a href="https://www.facebook.com/sharer/sharer.php?u={canonical_url}" class="social-btn social-btn-fb" target="_blank" rel="noopener" aria-label="Compartir en Facebook">
+          📘 Facebook
+        </a>
+        <a href="https://twitter.com/intent/tweet?url={canonical_url}&text=Especialista%20en%20Fugas%20Chile%20-%20G%C3%A1sfiter%20SEC%20Tel:%20%2B56949877316" class="social-btn social-btn-tw" target="_blank" rel="noopener" aria-label="Compartir en X">
+          ✖️ Compartir
+        </a>
+        <a href="https://www.linkedin.com/sharing/share-offsite/?url={canonical_url}" class="social-btn social-btn-li" target="_blank" rel="noopener" aria-label="Compartir en LinkedIn">
+          💼 LinkedIn
+        </a>
+        <a href="tel:+56949877316" class="social-btn social-btn-call" aria-label="Llamar a Emergencias">
+          📞 949 877 316
+        </a>
+      </div>
+    </div>
+  </section>
+
   <!-- Main Footer -->
   <footer class="main-footer">
     <div class="container">
@@ -1330,11 +1365,11 @@ def generate_page_html(page):
         <div>
           <div class="footer-column-title">Atención 24/7</div>
           <ul class="footer-links">
-            <li><strong>Central Telefónica:</strong></li>
+            <li><span class="footer-label">Central Telefónica:</span></li>
             <li><a href="tel:+56949877316" class="footer-link" style="color: #FFFFFF; font-weight: 700;">📞 (+56) 9 4987 7316</a></li>
-            <li style="margin-top: 8px;"><strong>WhatsApp Técnico:</strong></li>
+            <li style="margin-top: 8px;"><span class="footer-label">WhatsApp Técnico:</span></li>
             <li><a href="https://wa.me/56949877316?text=Hola,%20solicito%20atenci%C3%B3n%20para%20{page['breadcrumb_name']}" class="footer-link" style="color: #25D366; font-weight: 700;" target="_blank" rel="noopener">💬 Chatear por WhatsApp</a></li>
-            <li style="margin-top: 8px;"><strong>Cobertura:</strong></li>
+            <li style="margin-top: 8px;"><span class="footer-label">Cobertura:</span></li>
             <li>Región Metropolitana, V y VI Región</li>
             <li>Lunes a Domingo las 24 horas</li>
           </ul>
