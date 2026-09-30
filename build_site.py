@@ -605,7 +605,7 @@ def generate_page_html(page):
   <link rel="icon" type="image/jpeg" href="../assets/images/logotipo.jpg">
   
   <!-- Stylesheet -->
-  <link rel="stylesheet" href="../assets/css/style.css?v=2.5">
+  <link rel="stylesheet" href="../assets/css/style.css?v=3.0">
 
   <!-- Schema.org JSON-LD -->
   <script type="application/ld+json">
@@ -1099,7 +1099,7 @@ def generate_page_html(page):
   </aside>
 
   <!-- Main JavaScript File -->
-  <script src="../assets/js/main.js?v=2.5"></script>
+  <script src="../assets/js/main.js?v=3.0"></script>
 </body>
 </html>
 """
