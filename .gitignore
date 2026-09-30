@@ -1,0 +1,11 @@
+# OS metadata
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Logs
+*.log
+
+# Editor directories
+.vscode/
+.idea/
