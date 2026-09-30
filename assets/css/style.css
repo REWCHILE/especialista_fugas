@@ -125,6 +125,14 @@ button, input, select, textarea {
   gap: 8px;
 }
 
+.top-bar-text-desktop {
+  display: inline;
+}
+
+.top-bar-text-mobile {
+  display: none;
+}
+
 .pulse-dot {
   width: 10px;
   height: 10px;
@@ -193,6 +201,7 @@ button, input, select, textarea {
   align-items: center;
   justify-content: space-between;
   height: var(--header-height);
+  transition: height 0.25s ease;
 }
 
 .brand-wrapper {
@@ -207,6 +216,7 @@ button, input, select, textarea {
   object-fit: contain;
   border-radius: 50%;
   box-shadow: var(--shadow-sm);
+  transition: all 0.25s ease;
 }
 
 .brand-text {
@@ -346,7 +356,7 @@ button, input, select, textarea {
 .btn-header-wa {
   display: inline-flex;
   align-items: center;
-  gap: 8px;
+  gap: 7px;
   padding: 10px 18px;
   background-color: var(--whatsapp);
   color: #FFFFFF;
@@ -354,6 +364,14 @@ button, input, select, textarea {
   font-size: 0.9rem;
   border-radius: var(--radius-full);
   box-shadow: 0 4px 12px rgba(37, 211, 102, 0.25);
+  white-space: nowrap;
+}
+
+.btn-header-wa .icon-wa {
+  width: 18px;
+  height: 18px;
+  flex-shrink: 0;
+  fill: currentColor;
 }
 
 .btn-header-wa:hover {
@@ -381,6 +399,7 @@ button, input, select, textarea {
   border-radius: var(--radius-sm);
   cursor: pointer;
   padding: 0;
+  transition: all 0.2s ease;
 }
 
 @media (min-width: 1024px) {
@@ -408,6 +427,216 @@ button, input, select, textarea {
 
 .menu-toggle.open span:nth-child(3) {
   transform: translateY(-7px) rotate(-45deg);
+}
+
+/* ==========================================================================
+   MOBILE & TABLET HEADER TUNING (< 768px, < 420px, < 360px)
+   ========================================================================== */
+@media (max-width: 768px) {
+  .top-bar {
+    padding: 5px 0;
+    font-size: 0.76rem;
+    line-height: 1.25;
+  }
+
+  .top-bar-inner {
+    justify-content: center;
+    text-align: center;
+    padding: 0 10px;
+    gap: 0;
+  }
+
+  .top-bar-text-desktop {
+    display: none;
+  }
+
+  .top-bar-text-mobile {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    color: #FFFFFF;
+    text-decoration: none;
+    font-weight: 600;
+  }
+
+  .top-bar-text-mobile strong {
+    font-weight: 800;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+
+  .top-bar-contact {
+    display: none;
+  }
+
+  .main-header {
+    background: rgba(255, 255, 255, 0.98);
+  }
+
+  .header-container {
+    height: 60px;
+    padding-left: 14px;
+    padding-right: 14px;
+  }
+
+  .brand-wrapper {
+    gap: 10px;
+    min-width: 0;
+  }
+
+  .brand-logo {
+    width: 40px;
+    height: 40px;
+    min-width: 40px;
+    border-radius: 50%;
+    border: 2px solid rgba(217, 4, 41, 0.15);
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+  }
+
+  .brand-text {
+    min-width: 0;
+  }
+
+  .brand-name {
+    font-size: 1.05rem;
+    font-weight: 800;
+    line-height: 1.15;
+    letter-spacing: -0.02em;
+    white-space: nowrap;
+  }
+
+  .brand-tagline {
+    font-size: 0.62rem;
+    font-weight: 700;
+    color: var(--sec-blue);
+    letter-spacing: 0.03em;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .header-ctas {
+    gap: 8px;
+    flex-shrink: 0;
+  }
+
+  .btn-header-wa {
+    padding: 7px 12px;
+    font-size: 0.8rem;
+    gap: 6px;
+    border-radius: var(--radius-full);
+    box-shadow: 0 3px 10px rgba(37, 211, 102, 0.3);
+  }
+
+  .btn-header-wa .icon-wa {
+    width: 16px;
+    height: 16px;
+  }
+
+  .menu-toggle {
+    width: 38px;
+    height: 38px;
+    min-width: 38px;
+    background: #F8FAFC;
+    border: 1px solid var(--border-light);
+    border-radius: 10px;
+  }
+
+  .menu-toggle span {
+    width: 18px;
+    height: 2px;
+  }
+}
+
+@media (max-width: 420px) {
+  .header-container {
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 58px;
+  }
+
+  .brand-wrapper {
+    gap: 8px;
+  }
+
+  .brand-logo {
+    width: 38px;
+    height: 38px;
+    min-width: 38px;
+  }
+
+  .brand-name {
+    font-size: 0.98rem;
+  }
+
+  .brand-tagline {
+    font-size: 0.58rem;
+  }
+
+  .btn-header-wa {
+    width: 38px;
+    height: 38px;
+    min-width: 38px;
+    padding: 0;
+    justify-content: center;
+    border-radius: 50%;
+  }
+
+  .btn-header-wa .btn-wa-text {
+    display: none;
+  }
+
+  .btn-header-wa .icon-wa {
+    width: 19px;
+    height: 19px;
+  }
+}
+
+@media (max-width: 360px) {
+  .header-container {
+    padding-left: 8px;
+    padding-right: 8px;
+    height: 54px;
+  }
+
+  .brand-wrapper {
+    gap: 6px;
+  }
+
+  .brand-logo {
+    width: 34px;
+    height: 34px;
+    min-width: 34px;
+  }
+
+  .brand-name {
+    font-size: 0.90rem;
+  }
+
+  .brand-tagline {
+    font-size: 0.55rem;
+  }
+
+  .btn-header-wa {
+    width: 34px;
+    height: 34px;
+    min-width: 34px;
+  }
+
+  .btn-header-wa .icon-wa {
+    width: 17px;
+    height: 17px;
+  }
+
+  .menu-toggle {
+    width: 34px;
+    height: 34px;
+    min-width: 34px;
+  }
+
+  .menu-toggle span {
+    width: 16px;
+  }
 }
 
 /* ==========================================================================
@@ -458,6 +687,19 @@ button, input, select, textarea {
   padding-bottom: 16px;
   border-bottom: 1px solid var(--border-light);
   margin-bottom: 20px;
+}
+
+.mobile-drawer-header .brand-wrapper {
+  gap: 10px;
+}
+
+.mobile-drawer-header .brand-logo {
+  width: 40px;
+  height: 40px;
+}
+
+.mobile-drawer-header .brand-name {
+  font-size: 1.05rem;
 }
 
 .mobile-drawer-close {

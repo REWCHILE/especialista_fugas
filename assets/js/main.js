@@ -63,6 +63,10 @@
     if (closeBtn) closeBtn.addEventListener('click', closeMenu);
     backdrop.addEventListener('click', closeMenu);
 
+    drawer.querySelectorAll('a').forEach(function (link) {
+      link.addEventListener('click', closeMenu);
+    });
+
     document.addEventListener('keydown', function (e) {
       if (e.key === 'Escape' && drawer.classList.contains('open')) {
         closeMenu();
