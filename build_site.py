@@ -684,7 +684,7 @@ def generate_page_html(page):
         <img src="../assets/images/logotipo.jpg" alt="Logo Especialista en Fugas" class="brand-logo" width="44" height="44">
         <div class="brand-text">
           <span class="brand-name">ESPECIALISTA <span>FUGAS</span></span>
-          <span class="brand-tagline">Gasfiter Certificado SEC Chile</span>
+          <span class="brand-tagline">Gasfiter SEC Certificado</span>
         </div>
       </a>
 

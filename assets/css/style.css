@@ -222,14 +222,16 @@ button, input, select, textarea {
 .brand-text {
   display: flex;
   flex-direction: column;
+  white-space: nowrap;
 }
 
 .brand-name {
   font-size: 1.25rem;
-  font-weight: 800;
+  font-weight: 900;
   color: var(--primary);
-  line-height: 1.2;
+  line-height: 1.15;
   letter-spacing: -0.02em;
+  white-space: nowrap;
 }
 
 .brand-name span {
@@ -237,11 +239,13 @@ button, input, select, textarea {
 }
 
 .brand-tagline {
-  font-size: 0.75rem;
-  color: var(--text-muted);
-  font-weight: 600;
+  font-size: 0.72rem;
+  color: var(--sec-blue);
+  font-weight: 700;
   text-transform: uppercase;
-  letter-spacing: 0.05em;
+  letter-spacing: 0.04em;
+  white-space: nowrap;
+  line-height: 1.2;
 }
 
 /* Desktop Navigation */
@@ -430,13 +434,112 @@ button, input, select, textarea {
 }
 
 /* ==========================================================================
-   MOBILE & TABLET HEADER TUNING (< 768px, < 420px, < 360px)
+   TABLET & MOBILE HEADER RESPONSIVE ENGINE
    ========================================================================== */
-@media (max-width: 768px) {
+
+/* --- TABLET ENGINE (768px to 1023px) --- */
+@media (min-width: 768px) and (max-width: 1023px) {
   .top-bar {
-    padding: 5px 0;
+    padding: 6px 0;
+    font-size: 0.80rem;
+    min-height: 32px;
+  }
+
+  .top-bar-inner {
+    padding: 0 16px;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+  }
+
+  .emergency-pulse {
+    gap: 8px;
+  }
+
+  .top-bar-text-desktop {
+    display: inline;
+    font-size: 0.80rem;
+    white-space: nowrap;
+  }
+
+  .top-bar-text-mobile {
+    display: none !important;
+  }
+
+  .top-bar-contact {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    font-size: 0.80rem;
+    white-space: nowrap;
+  }
+
+  .header-container {
+    height: 68px;
+    min-height: 68px;
+    padding: 0 16px;
+  }
+
+  .brand-wrapper {
+    gap: 12px;
+    flex-shrink: 0;
+  }
+
+  .brand-logo {
+    width: 46px;
+    height: 46px;
+    min-width: 46px;
+    border-radius: 50%;
+    border: 2px solid #D90429;
+    box-shadow: 0 2px 8px rgba(217, 4, 41, 0.2);
+    image-rendering: -webkit-optimize-contrast;
+  }
+
+  .brand-name {
+    font-size: 1.18rem;
+    white-space: nowrap;
+  }
+
+  .brand-tagline {
+    font-size: 0.68rem;
+    white-space: nowrap;
+  }
+
+  .header-ctas {
+    gap: 10px;
+    flex-shrink: 0;
+  }
+
+  .btn-header-call {
+    display: inline-flex !important;
+    padding: 8px 14px;
+    font-size: 0.85rem;
+    gap: 6px;
+    border-radius: var(--radius-full);
+  }
+
+  .btn-header-wa {
+    display: inline-flex !important;
+    padding: 8px 14px;
+    font-size: 0.85rem;
+    gap: 6px;
+    border-radius: var(--radius-full);
+  }
+
+  .menu-toggle {
+    display: flex !important;
+    width: 40px;
+    height: 40px;
+    min-width: 40px;
+  }
+}
+
+/* --- MOBILE ENGINE (max-width: 767px) --- */
+@media (max-width: 767px) {
+  .top-bar {
+    padding: 6px 0;
     font-size: 0.76rem;
-    line-height: 1.25;
+    line-height: 1.2;
+    min-height: 30px;
   }
 
   .top-bar-inner {
@@ -444,65 +547,97 @@ button, input, select, textarea {
     text-align: center;
     padding: 0 10px;
     gap: 0;
+    flex-wrap: nowrap;
+  }
+
+  .emergency-pulse {
+    width: 100%;
+    justify-content: center;
+    gap: 6px;
   }
 
   .top-bar-text-desktop {
-    display: none;
+    display: none !important;
   }
 
   .top-bar-text-mobile {
-    display: inline-flex;
+    display: inline-flex !important;
     align-items: center;
+    justify-content: center;
     gap: 6px;
     color: #FFFFFF;
     text-decoration: none;
-    font-weight: 600;
+    font-weight: 700;
+    white-space: nowrap;
+    font-size: 0.76rem;
   }
 
   .top-bar-text-mobile strong {
-    font-weight: 800;
+    font-weight: 900;
+    color: #FFFFFF;
     text-decoration: underline;
     text-underline-offset: 2px;
   }
 
   .top-bar-contact {
-    display: none;
+    display: none !important;
   }
 
   .main-header {
-    background: rgba(255, 255, 255, 0.98);
+    background: #FFFFFF;
+    border-bottom: 1px solid var(--border-light);
   }
 
   .header-container {
     height: 60px;
-    padding-left: 14px;
-    padding-right: 14px;
+    min-height: 60px;
+    padding: 0 12px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    overflow: visible;
   }
 
   .brand-wrapper {
-    gap: 10px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
     min-width: 0;
+    flex-shrink: 1;
+    overflow: hidden;
   }
 
   .brand-logo {
-    width: 40px;
-    height: 40px;
-    min-width: 40px;
+    width: 42px;
+    height: 42px;
+    min-width: 42px;
     border-radius: 50%;
-    border: 2px solid rgba(217, 4, 41, 0.15);
-    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+    border: 2px solid #D90429;
+    box-shadow: 0 2px 6px rgba(217, 4, 41, 0.25);
+    image-rendering: -webkit-optimize-contrast;
+    flex-shrink: 0;
   }
 
   .brand-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     min-width: 0;
+    white-space: nowrap;
+    overflow: hidden;
   }
 
   .brand-name {
     font-size: 1.05rem;
-    font-weight: 800;
-    line-height: 1.15;
+    font-weight: 900;
+    line-height: 1.1;
     letter-spacing: -0.02em;
+    color: var(--primary);
     white-space: nowrap;
+  }
+
+  .brand-name span {
+    color: var(--accent);
   }
 
   .brand-tagline {
@@ -511,35 +646,46 @@ button, input, select, textarea {
     color: var(--sec-blue);
     letter-spacing: 0.03em;
     white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
+    line-height: 1.2;
+    text-transform: uppercase;
   }
 
   .header-ctas {
+    display: flex;
+    align-items: center;
     gap: 8px;
     flex-shrink: 0;
   }
 
-  .btn-header-wa {
-    padding: 7px 12px;
-    font-size: 0.8rem;
-    gap: 6px;
-    border-radius: var(--radius-full);
-    box-shadow: 0 3px 10px rgba(37, 211, 102, 0.3);
+  .btn-header-call {
+    display: none !important;
   }
 
-  .btn-header-wa .icon-wa {
-    width: 16px;
-    height: 16px;
+  .btn-header-wa {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(135deg, #25D366 0%, #1EBE5D 100%);
+    box-shadow: 0 2px 8px rgba(37, 211, 102, 0.35);
+    white-space: nowrap;
+    flex-shrink: 0;
+    border: none;
   }
 
   .menu-toggle {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
     width: 38px;
     height: 38px;
     min-width: 38px;
     background: #F8FAFC;
     border: 1px solid var(--border-light);
-    border-radius: 10px;
+    border-radius: 8px;
+    padding: 0;
+    flex-shrink: 0;
   }
 
   .menu-toggle span {
@@ -548,15 +694,32 @@ button, input, select, textarea {
   }
 }
 
-@media (max-width: 420px) {
-  .header-container {
-    padding-left: 10px;
-    padding-right: 10px;
-    height: 58px;
+/* --- MOBILE WIDE (480px to 767px) --- */
+@media (min-width: 480px) and (max-width: 767px) {
+  .btn-header-wa {
+    padding: 7px 12px;
+    font-size: 0.82rem;
+    gap: 6px;
+    border-radius: var(--radius-full);
   }
 
-  .brand-wrapper {
-    gap: 8px;
+  .btn-header-wa .btn-wa-text {
+    display: inline !important;
+  }
+
+  .btn-header-wa .icon-wa {
+    width: 16px;
+    height: 16px;
+  }
+}
+
+/* --- MOBILE COMPACT (< 480px) - iPhone / Android Smartphones --- */
+@media (max-width: 479px) {
+  .header-container {
+    height: 58px;
+    min-height: 58px;
+    padding-left: 10px;
+    padding-right: 10px;
   }
 
   .brand-logo {
@@ -578,29 +741,26 @@ button, input, select, textarea {
     height: 38px;
     min-width: 38px;
     padding: 0;
-    justify-content: center;
     border-radius: 50%;
   }
 
   .btn-header-wa .btn-wa-text {
-    display: none;
+    display: none !important;
   }
 
   .btn-header-wa .icon-wa {
-    width: 19px;
-    height: 19px;
+    width: 20px;
+    height: 20px;
   }
 }
 
-@media (max-width: 360px) {
+/* --- MOBILE ULTRA-COMPACT (< 360px) --- */
+@media (max-width: 359px) {
   .header-container {
+    height: 54px;
+    min-height: 54px;
     padding-left: 8px;
     padding-right: 8px;
-    height: 54px;
-  }
-
-  .brand-wrapper {
-    gap: 6px;
   }
 
   .brand-logo {
@@ -610,11 +770,11 @@ button, input, select, textarea {
   }
 
   .brand-name {
-    font-size: 0.90rem;
+    font-size: 0.88rem;
   }
 
   .brand-tagline {
-    font-size: 0.55rem;
+    font-size: 0.52rem;
   }
 
   .btn-header-wa {
@@ -624,8 +784,8 @@ button, input, select, textarea {
   }
 
   .btn-header-wa .icon-wa {
-    width: 17px;
-    height: 17px;
+    width: 18px;
+    height: 18px;
   }
 
   .menu-toggle {
@@ -1669,8 +1829,10 @@ button, input, select, textarea {
 
 /* Breadcrumbs */
 .breadcrumbs {
-  padding: 14px 0;
-  font-size: 0.85rem;
+  background: #F8FAFC;
+  border-bottom: 1px solid var(--border-light);
+  padding: 10px 0;
+  font-size: 0.82rem;
   color: var(--text-muted);
 }
 
